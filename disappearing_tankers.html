@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <style>
+        #chart-container h2 {
+            font-family: 'Arial', sans-serif; /* Sans-serif font */
+            font-size: 24px; /* Larger font size */
+            font-weight: bold; /* Make it bold */
+            color: #333; /* Dark gray color for better readability */
+            margin-bottom: 5px; /* Reduce space between title and subtitle */
+        }
+        #chart-container p {
+            font-family: 'Arial', sans-serif; /* Sans-serif font for subtitle too */
+            font-size: 16px; /* Slightly smaller font size */
+            color: #555; /* Medium gray for subtitle */
+            margin-top: 0; /* Remove extra spacing above the subtitle */
+            margin-bottom: 15px; /* Add spacing between subtitle and chart */
+        }
+    </style>
+</head>
+<body>
+    <div id="chart-container">
+        <h2>Disappearing Tankers in the East Med: Jan 24</h2>
+        <p>Tankers that went dark for more than 12 hours before reappearing more than a kilometre from where they disappeared.</p>  
+        <div id="container" style="width: 100%; height: 600px;"></div>
+    </div>
+    <script src="disappearing_tankers.js"></script>
+</body>
+</html>
+
+
