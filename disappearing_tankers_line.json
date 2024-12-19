@@ -1,0 +1,5510 @@
+[
+  {
+    "name": "BLUE BIRD",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.9419, 33.1222],
+        [35.4908, 33.8183]
+      ]
+    },
+    "mmsi": 215691000,
+    "destination": "EGEGD)OPL PORT SAID",
+    "distance_km": 249,
+    "pre_gap_time": "2024-01-02 20:38:11",
+    "post_gap_time": "2024-01-03 12:57:41",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BLUE BIRD",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4907, 33.8182],
+        [34.566, 32.8934]
+      ]
+    },
+    "mmsi": 215691000,
+    "destination": "EGEGD)OPL PORT SAID",
+    "distance_km": 134,
+    "pre_gap_time": "2024-01-06 19:57:51",
+    "post_gap_time": "2024-01-07 10:03:57",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KYTHIRA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.2083, 32.2367],
+        [31.215, 32.25]
+      ]
+    },
+    "mmsi": 248338000,
+    "destination": "EG PSD",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-08 18:37:33",
+    "post_gap_time": "2024-01-15 23:30:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KYTHIRA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.2167, 32.2283],
+        [31.3033, 32.1317]
+      ]
+    },
+    "mmsi": 248338000,
+    "destination": "EG PSD",
+    "distance_km": 13,
+    "pre_gap_time": "2024-01-19 20:15:11",
+    "post_gap_time": "2024-01-27 21:27:34",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VILAMOURA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.1153, 36.3329],
+        [35.2284, 36.3743]
+      ]
+    },
+    "mmsi": 538010255,
+    "destination": "CEYHAN TURKEY",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-01 07:35:52",
+    "post_gap_time": "2024-01-02 08:22:34",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VILAMOURA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.569, 32.7968],
+        [33.0838, 32.3052]
+      ]
+    },
+    "mmsi": 538010255,
+    "destination": "OPL PORT SAID",
+    "distance_km": 71,
+    "pre_gap_time": "2024-01-05 11:19:06",
+    "post_gap_time": "2024-01-08 17:31:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BEYKOZ",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.99, 35.32],
+        [34.0751, 35.2926]
+      ]
+    },
+    "mmsi": 271044090,
+    "destination": "CY KAL",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-17 03:23:20",
+    "post_gap_time": "2024-01-17 16:53:48",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GAS HARALAMBOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.3263, 33.5222],
+        [35.1466, 33.5891]
+      ]
+    },
+    "mmsi": 308652000,
+    "destination": "LBZHR",
+    "distance_km": 18,
+    "pre_gap_time": "2024-01-18 04:35:40",
+    "post_gap_time": "2024-01-19 07:06:03",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PAROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.6514, 31.8578],
+        [31.2576, 31.7575]
+      ]
+    },
+    "mmsi": 354290000,
+    "destination": "SIDI KERRIR",
+    "distance_km": 39,
+    "pre_gap_time": "2024-01-19 12:53:58",
+    "post_gap_time": "2024-01-20 06:46:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALTAI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9083, 35.5467],
+        [29.9683, 35.5098]
+      ]
+    },
+    "mmsi": 538004508,
+    "destination": "IT AUG>TR CEY",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-17 04:50:11",
+    "post_gap_time": "2024-01-25 18:50:32",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NISSOS TINOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.4134, 32.5297],
+        [33.0719, 32.6249]
+      ]
+    },
+    "mmsi": 538008916,
+    "destination": "OPL PORT SAID",
+    "distance_km": 63,
+    "pre_gap_time": "2024-01-06 20:18:26",
+    "post_gap_time": "2024-01-21 15:43:35",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NAVIG8 WOLF",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8333, 31.7467],
+        [31.2517, 32.2383]
+      ]
+    },
+    "mmsi": 538010341,
+    "destination": "SUEZ",
+    "distance_km": 67,
+    "pre_gap_time": "2024-01-21 00:48:53",
+    "post_gap_time": "2024-02-01 08:10:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PATMOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3367, 31.34],
+        [32.365, 31.515]
+      ]
+    },
+    "mmsi": 636013885,
+    "destination": "SAID EGYPT",
+    "distance_km": 20,
+    "pre_gap_time": "2024-01-15 20:40:02",
+    "post_gap_time": "2024-01-17 18:40:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORLANDO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.456, 35.5885],
+        [30.0668, 35.7015]
+      ]
+    },
+    "mmsi": 636022949,
+    "destination": "ALANYA",
+    "distance_km": 37,
+    "pre_gap_time": "2024-01-27 00:20:50",
+    "post_gap_time": "2024-01-29 14:18:19",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA ELLIE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3685, 32.1272],
+        [30.2689, 35.343]
+      ]
+    },
+    "mmsi": 636023294,
+    "destination": "TR CEY",
+    "distance_km": 372,
+    "pre_gap_time": "2024-01-09 00:14:35",
+    "post_gap_time": "2024-01-21 05:31:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA ELLIE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2355, 35.5984],
+        [34.0767, 35.9248]
+      ]
+    },
+    "mmsi": 636023294,
+    "destination": "TR CEY",
+    "distance_km": 170,
+    "pre_gap_time": "2024-01-21 19:19:45",
+    "post_gap_time": "2024-01-22 18:30:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA ELLIE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.5962, 35.7867],
+        [34.7677, 36.0849]
+      ]
+    },
+    "mmsi": 636023294,
+    "destination": "TR CEY",
+    "distance_km": 111,
+    "pre_gap_time": "2024-01-23 04:33:46",
+    "post_gap_time": "2024-01-23 18:25:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ANHOUT SWAN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7541, 31.6129],
+        [31.7572, 31.4849]
+      ]
+    },
+    "mmsi": 219473000,
+    "destination": "EG DAM",
+    "distance_km": 14,
+    "pre_gap_time": "2024-01-12 15:02:29",
+    "post_gap_time": "2024-01-17 17:03:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KAPIDAG",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.5403, 36.0887],
+        [35.7039, 36.5434]
+      ]
+    },
+    "mmsi": 271047132,
+    "destination": "TRSSX>>TRCEY",
+    "distance_km": 376,
+    "pre_gap_time": "2024-01-11 09:35:58",
+    "post_gap_time": "2024-01-12 07:36:42",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KAPIDAG",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.8783, 36.326],
+        [31.3884, 36.0824]
+      ]
+    },
+    "mmsi": 271047132,
+    "destination": "TRCEY>>BGBOJ",
+    "distance_km": 314,
+    "pre_gap_time": "2024-01-14 09:35:27",
+    "post_gap_time": "2024-01-15 00:56:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MT VELA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3519, 30.3568],
+        [32.4332, 30.2862]
+      ]
+    },
+    "mmsi": 477698300,
+    "destination": "EGPSD",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-18 06:48:40",
+    "post_gap_time": "2024-01-18 19:32:49",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OCTA LUNE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5635, 30.2056],
+        [32.545, 30.2317]
+      ]
+    },
+    "mmsi": 538009720,
+    "destination": "GIBRALTAR FOR ORDERS",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-11 11:22:04",
+    "post_gap_time": "2024-01-14 08:58:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KILBURN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.17, 31.99],
+        [34.0183, 32.0533]
+      ]
+    },
+    "mmsi": 563112000,
+    "destination": "FOR ORDERS",
+    "distance_km": 16,
+    "pre_gap_time": "2024-01-07 01:00:13",
+    "post_gap_time": "2024-01-17 09:35:40",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM JUPITER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7668, 31.458],
+        [31.7857, 31.5893]
+      ]
+    },
+    "mmsi": 636020400,
+    "destination": "EG DAM",
+    "distance_km": 15,
+    "pre_gap_time": "2024-01-16 08:18:28",
+    "post_gap_time": "2024-01-17 09:16:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PATMOS WARRIOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3263, 31.4711],
+        [32.3372, 31.4751]
+      ]
+    },
+    "mmsi": 636022741,
+    "destination": "INSIK",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-29 12:54:13",
+    "post_gap_time": "2024-01-30 03:07:30",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ZULU",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.4107, 33.9222],
+        [33.1864, 34.0066]
+      ]
+    },
+    "mmsi": 677028500,
+    "destination": "OPL",
+    "distance_km": 23,
+    "pre_gap_time": "2024-01-29 10:12:41",
+    "post_gap_time": "2024-01-29 23:52:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ZULU",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.1864, 34.0066],
+        [33.3779, 33.9443]
+      ]
+    },
+    "mmsi": 677028500,
+    "destination": "OPL",
+    "distance_km": 19,
+    "pre_gap_time": "2024-01-29 23:52:52",
+    "post_gap_time": "2024-01-30 17:48:38",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA ANTONIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.2589, 35.3401],
+        [30.4979, 35.1964]
+      ]
+    },
+    "mmsi": 240787000,
+    "destination": "DORTYOL TR",
+    "distance_km": 27,
+    "pre_gap_time": "2024-01-16 14:17:10",
+    "post_gap_time": "2024-01-22 21:11:00",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KAYA TUNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.4662, 36.0736],
+        [30.6093, 36.4382]
+      ]
+    },
+    "mmsi": 271043410,
+    "destination": "TRAYT>TRALI",
+    "distance_km": 171,
+    "pre_gap_time": "2024-01-04 19:41:15",
+    "post_gap_time": "2024-01-05 23:02:24",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KAYA TUNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.0107, 36.0971],
+        [29.9446, 36.0606]
+      ]
+    },
+    "mmsi": 271043410,
+    "destination": "TRALI>TRMER",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-06 02:33:03",
+    "post_gap_time": "2024-01-12 19:57:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEBAHAT  ANA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.6858, 35.9965],
+        [33.1647, 35.843]
+      ]
+    },
+    "mmsi": 271050332,
+    "destination": "CYKAL",
+    "distance_km": 224,
+    "pre_gap_time": "2024-01-09 18:11:51",
+    "post_gap_time": "2024-01-10 07:58:17",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEBAHAT  ANA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.5499, 35.8232],
+        [33.971, 35.2951]
+      ]
+    },
+    "mmsi": 271050332,
+    "destination": "CYKAL",
+    "distance_km": 70,
+    "pre_gap_time": "2024-01-10 10:16:51",
+    "post_gap_time": "2024-01-11 01:46:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEBAHAT  ANA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.971, 35.2951],
+        [33.9997, 35.3053]
+      ]
+    },
+    "mmsi": 271050332,
+    "destination": "TRYAR",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-11 01:46:14",
+    "post_gap_time": "2024-01-12 21:42:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEBAHAT  ANA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9119, 36.0369],
+        [29.8742, 35.7623]
+      ]
+    },
+    "mmsi": 271050332,
+    "destination": "CYKAL",
+    "distance_km": 31,
+    "pre_gap_time": "2024-01-14 00:27:50",
+    "post_gap_time": "2024-01-20 23:35:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEBAHAT  ANA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9906, 35.3064],
+        [34.0206, 35.2989]
+      ]
+    },
+    "mmsi": 271050332,
+    "destination": "CYKAL",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-22 05:09:12",
+    "post_gap_time": "2024-01-23 21:47:15",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KOYSUG",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.955, 35.4933],
+        [34.9017, 35.5367]
+      ]
+    },
+    "mmsi": 273454720,
+    "destination": "TO ORDER",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-10 05:06:40",
+    "post_gap_time": "2024-01-13 13:53:59",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BLUE LAKE STAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.8066, 31.5871],
+        [31.7778, 31.569]
+      ]
+    },
+    "mmsi": 352001410,
+    "destination": "TRIST",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-01 19:33:25",
+    "post_gap_time": "2024-01-05 01:04:34",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KHALISSA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5517, 30.2233],
+        [32.3292, 31.173]
+      ]
+    },
+    "mmsi": 352003056,
+    "destination": "UST LUGA RUSSIA",
+    "distance_km": 108,
+    "pre_gap_time": "2024-01-07 12:51:40",
+    "post_gap_time": "2024-01-30 14:04:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AZURE CELESTE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2914, 31.4634],
+        [32.3042, 31.4712]
+      ]
+    },
+    "mmsi": 518998631,
+    "destination": "PORT SAID",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-03 06:34:53",
+    "post_gap_time": "2024-01-04 07:28:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BULL FLORES",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9866, 33.7532],
+        [35.9749, 36.7172]
+      ]
+    },
+    "mmsi": 525007403,
+    "destination": "DORTYOL,TURKEY",
+    "distance_km": 376,
+    "pre_gap_time": "2024-01-25 18:00:19",
+    "post_gap_time": "2024-01-26 18:09:23",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BULL FLORES",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1153, 36.8162],
+        [36.1431, 36.8419]
+      ]
+    },
+    "mmsi": 525007403,
+    "destination": "DORTYOL,TURKEY",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-28 09:12:44",
+    "post_gap_time": "2024-01-31 20:27:48",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ARUNA GULCAY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.4251, 30.3064],
+        [32.3109, 31.0187]
+      ]
+    },
+    "mmsi": 538010901,
+    "destination": "BRINDISI",
+    "distance_km": 80,
+    "pre_gap_time": "2024-01-28 03:52:48",
+    "post_gap_time": "2024-01-28 16:27:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GEN. POLAD HASHIMOV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.5883, 36.25],
+        [34.5155, 36.3215]
+      ]
+    },
+    "mmsi": 636021708,
+    "destination": "TO ORDER",
+    "distance_km": 10,
+    "pre_gap_time": "2024-01-20 04:52:37",
+    "post_gap_time": "2024-01-21 19:21:22",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PETROLINA OCEAN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.8096, 34.0599],
+        [35.0055, 32.821]
+      ]
+    },
+    "mmsi": 212422000,
+    "destination": "CY VAS>IL HFA",
+    "distance_km": 177,
+    "pre_gap_time": "2024-01-04 20:05:07",
+    "post_gap_time": "2024-01-05 12:28:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SOUNION",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3192, 31.4724],
+        [32.3339, 31.4759]
+      ]
+    },
+    "mmsi": 240542000,
+    "destination": "EG SUE",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-22 14:40:48",
+    "post_gap_time": "2024-01-23 03:29:35",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PORT CAPRI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.1474, 36.139],
+        [30.8156, 36.0289]
+      ]
+    },
+    "mmsi": 271048050,
+    "destination": "TRALI",
+    "distance_km": 300,
+    "pre_gap_time": "2024-01-15 09:46:40",
+    "post_gap_time": "2024-01-15 22:47:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PORT CAPRI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9162, 36.0501],
+        [30.0095, 36.0349]
+      ]
+    },
+    "mmsi": 271048050,
+    "destination": "TRDYL",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-16 02:34:40",
+    "post_gap_time": "2024-01-26 02:07:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALEXEY SAVRASOV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.63, 33.1983],
+        [31.6143, 33.0955]
+      ]
+    },
+    "mmsi": 273355680,
+    "destination": "EG ALY",
+    "distance_km": 12,
+    "pre_gap_time": "2024-01-12 02:08:12",
+    "post_gap_time": "2024-01-20 15:05:24",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VOLTA RIVER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3173, 31.4708],
+        [32.4066, 31.4349]
+      ]
+    },
+    "mmsi": 352002521,
+    "destination": "SINGAPORE FOR ORDERS",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-18 07:17:52",
+    "post_gap_time": "2024-01-19 05:55:36",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GOYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.5391, 36.0394],
+        [32.1873, 36.1122]
+      ]
+    },
+    "mmsi": 352002549,
+    "destination": "CYKAL",
+    "distance_km": 148,
+    "pre_gap_time": "2024-01-31 05:49:08",
+    "post_gap_time": "2024-01-31 22:55:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GOYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.1834, 36.114],
+        [34.1624, 35.7657]
+      ]
+    },
+    "mmsi": 352002549,
+    "destination": "CYKAL",
+    "distance_km": 182,
+    "pre_gap_time": "2024-01-31 23:04:29",
+    "post_gap_time": "2024-02-01 15:15:01",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BLUE ROSE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3184, 31.6515],
+        [32.3047, 31.648]
+      ]
+    },
+    "mmsi": 538002561,
+    "destination": "PORT SAID",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-06 11:59:17",
+    "post_gap_time": "2024-01-07 09:34:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BLUE ROSE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2972, 31.6481],
+        [30.575, 34.5317]
+      ]
+    },
+    "mmsi": 538002561,
+    "destination": "SEA FOR ORDER",
+    "distance_km": 359,
+    "pre_gap_time": "2024-01-07 10:07:51",
+    "post_gap_time": "2024-01-21 14:30:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BLUE ROSE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.6217, 32.9317],
+        [35.4908, 33.8183]
+      ]
+    },
+    "mmsi": 538002561,
+    "destination": "SEA FOR ORDER",
+    "distance_km": 127,
+    "pre_gap_time": "2024-01-22 07:09:25",
+    "post_gap_time": "2024-01-27 08:11:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FOLEGANDROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.2754, 36.0948],
+        [34.0743, 33.9562]
+      ]
+    },
+    "mmsi": 538007771,
+    "destination": "TR CEY",
+    "distance_km": 262,
+    "pre_gap_time": "2024-01-09 02:51:48",
+    "post_gap_time": "2024-01-16 12:37:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FOLEGANDROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.4846, 34.651],
+        [35.1957, 36.3508]
+      ]
+    },
+    "mmsi": 538007771,
+    "destination": "TR CEY",
+    "distance_km": 200,
+    "pre_gap_time": "2024-01-16 18:38:13",
+    "post_gap_time": "2024-01-18 06:37:54",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CONCERTO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7695, 31.5295],
+        [31.7883, 31.6153]
+      ]
+    },
+    "mmsi": 563028800,
+    "destination": "DAMIETTA",
+    "distance_km": 10,
+    "pre_gap_time": "2024-01-17 19:59:19",
+    "post_gap_time": "2024-01-26 13:37:10",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALRAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.8878, 35.7396],
+        [29.9125, 35.9497]
+      ]
+    },
+    "mmsi": 636012377,
+    "destination": "TRALI>TRALA",
+    "distance_km": 23,
+    "pre_gap_time": "2024-01-08 11:29:52",
+    "post_gap_time": "2024-01-12 19:18:35",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALRAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.1417, 36.3267],
+        [32.1267, 36.3067]
+      ]
+    },
+    "mmsi": 636012377,
+    "destination": "TRALI>TRALA",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-13 10:07:40",
+    "post_gap_time": "2024-01-15 04:01:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BESIKTAS BOSPHORUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3102, 31.4683],
+        [32.4043, 31.4222]
+      ]
+    },
+    "mmsi": 636023264,
+    "destination": "INMAA",
+    "distance_km": 10,
+    "pre_gap_time": "2024-01-06 14:18:56",
+    "post_gap_time": "2024-01-07 04:25:20",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALEXANDRIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.7242, 32.9127],
+        [35.4908, 33.8182]
+      ]
+    },
+    "mmsi": 210412000,
+    "destination": "IL HFA",
+    "distance_km": 123,
+    "pre_gap_time": "2024-01-22 21:29:23",
+    "post_gap_time": "2024-01-23 10:35:27",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OLVIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0055, 32.8209],
+        [35.49, 33.8167]
+      ]
+    },
+    "mmsi": 212717000,
+    "destination": "ASHDOD",
+    "distance_km": 120,
+    "pre_gap_time": "2024-01-13 03:44:59",
+    "post_gap_time": "2024-01-13 21:38:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OLVIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4908, 33.8183],
+        [34.9811, 32.8806]
+      ]
+    },
+    "mmsi": 212717000,
+    "destination": "ASHDOD",
+    "distance_km": 115,
+    "pre_gap_time": "2024-01-22 05:52:05",
+    "post_gap_time": "2024-01-22 18:05:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OLVIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.7832, 32.782],
+        [35.4908, 33.8183]
+      ]
+    },
+    "mmsi": 212717000,
+    "destination": "HAIFA",
+    "distance_km": 133,
+    "pre_gap_time": "2024-01-26 16:18:11",
+    "post_gap_time": "2024-01-27 08:14:36",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ASENA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.3097, 35.8276],
+        [34.3674, 36.1311]
+      ]
+    },
+    "mmsi": 271047067,
+    "destination": "TR ALI > TR ISK",
+    "distance_km": 367,
+    "pre_gap_time": "2024-01-02 15:45:12",
+    "post_gap_time": "2024-01-03 08:14:10",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AZOV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.8983, 35.955],
+        [29.9309, 36.0254]
+      ]
+    },
+    "mmsi": 273437770,
+    "destination": "TO ORDER",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-01 04:49:27",
+    "post_gap_time": "2024-01-27 13:33:50",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AZOV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.2683, 35.685],
+        [35.2483, 35.725]
+      ]
+    },
+    "mmsi": 273437770,
+    "destination": "TO ORDER",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-29 04:56:50",
+    "post_gap_time": "2024-02-01 15:05:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NEPTUNE I",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2412, 31.5057],
+        [32.4078, 31.4377]
+      ]
+    },
+    "mmsi": 352002884,
+    "destination": "EGPSD",
+    "distance_km": 18,
+    "pre_gap_time": "2024-01-01 11:46:32",
+    "post_gap_time": "2024-01-02 06:32:59",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORIS GRACE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.4017, 32.0417],
+        [31.7733, 31.6133]
+      ]
+    },
+    "mmsi": 352003331,
+    "destination": "DAMIETTA",
+    "distance_km": 59,
+    "pre_gap_time": "2024-01-26 09:32:27",
+    "post_gap_time": "2024-01-26 21:59:24",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORIS GRACE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7767, 31.6117],
+        [31.765, 31.5967]
+      ]
+    },
+    "mmsi": 352003331,
+    "destination": "DAMIETTA",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-26 23:44:25",
+    "post_gap_time": "2024-01-27 21:50:30",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GAZ SYNERGY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.4198, 34.2222],
+        [33.9765, 34.5868]
+      ]
+    },
+    "mmsi": 356062000,
+    "destination": "GR === > LB BEY",
+    "distance_km": 65,
+    "pre_gap_time": "2024-01-22 05:07:43",
+    "post_gap_time": "2024-01-25 12:48:18",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OLYMPIC SKY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5338, 30.2489],
+        [32.4983, 30.2633]
+      ]
+    },
+    "mmsi": 538006517,
+    "destination": "EGPSD",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-01 15:45:01",
+    "post_gap_time": "2024-01-25 08:36:41",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NOSTOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7727, 31.8202],
+        [31.589, 31.8692]
+      ]
+    },
+    "mmsi": 636019667,
+    "destination": "CHIOS",
+    "distance_km": 18,
+    "pre_gap_time": "2024-01-08 23:29:01",
+    "post_gap_time": "2024-01-11 06:05:12",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NOSTOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.5897, 31.8719],
+        [31.3794, 32.1097]
+      ]
+    },
+    "mmsi": 636019667,
+    "destination": "CHIOS",
+    "distance_km": 33,
+    "pre_gap_time": "2024-01-13 08:14:15",
+    "post_gap_time": "2024-01-15 13:58:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM PREMIER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.605, 36.4083],
+        [30.7217, 36.7633]
+      ]
+    },
+    "mmsi": 271050280,
+    "destination": "TR AYT",
+    "distance_km": 41,
+    "pre_gap_time": "2024-01-11 14:12:40",
+    "post_gap_time": "2024-01-13 23:33:43",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM PREMIER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9507, 36.0935],
+        [29.9517, 36.0717]
+      ]
+    },
+    "mmsi": 271050280,
+    "destination": "TR AYT",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-17 05:38:11",
+    "post_gap_time": "2024-01-22 08:55:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM PREMIER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.55, 36.2317],
+        [30.72, 36.7617]
+      ]
+    },
+    "mmsi": 271050280,
+    "destination": "TR AYT",
+    "distance_km": 61,
+    "pre_gap_time": "2024-01-22 12:19:02",
+    "post_gap_time": "2024-01-24 21:13:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "YAMATO SPIRIT",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.4818, 35.2051],
+        [30.495, 35.2067]
+      ]
+    },
+    "mmsi": 311000357,
+    "destination": "TRCEV",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-15 13:59:44",
+    "post_gap_time": "2024-01-27 00:18:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GINGA LEOPARD",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.4771, 30.2709],
+        [32.347, 31.2327]
+      ]
+    },
+    "mmsi": 370854000,
+    "destination": "PORT SAID",
+    "distance_km": 108,
+    "pre_gap_time": "2024-01-02 04:18:44",
+    "post_gap_time": "2024-01-02 19:53:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "TRF MOSS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5533, 33.9067],
+        [35.555, 34.0217]
+      ]
+    },
+    "mmsi": 538006543,
+    "destination": "LBBEY",
+    "distance_km": 13,
+    "pre_gap_time": "2024-01-12 02:58:33",
+    "post_gap_time": "2024-01-13 07:31:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WONDER SIRIUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9039, 35.8074],
+        [31.6934, 32.6142]
+      ]
+    },
+    "mmsi": 538009332,
+    "destination": "EG  PSE",
+    "distance_km": 391,
+    "pre_gap_time": "2024-01-06 17:26:54",
+    "post_gap_time": "2024-01-20 13:58:55",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALBATROSS TRADER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5624, 30.2067],
+        [32.5171, 30.2591]
+      ]
+    },
+    "mmsi": 548925000,
+    "destination": "SA YNB > EG SUZ",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-18 20:30:38",
+    "post_gap_time": "2024-01-24 09:01:50",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GOLDEN MILE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.1403, 31.5866],
+        [32.3846, 31.3613]
+      ]
+    },
+    "mmsi": 626289000,
+    "destination": "EGSCN",
+    "distance_km": 34,
+    "pre_gap_time": "2024-01-28 01:43:10",
+    "post_gap_time": "2024-01-29 04:45:35",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEAGAS MAJOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5347, 33.9406],
+        [35.4908, 33.8183]
+      ]
+    },
+    "mmsi": 636016188,
+    "destination": "CYVAS",
+    "distance_km": 14,
+    "pre_gap_time": "2024-01-09 03:45:47",
+    "post_gap_time": "2024-01-09 20:26:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEAGAS MAJOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.4978, 34.7684],
+        [30.4861, 34.7689]
+      ]
+    },
+    "mmsi": 636016188,
+    "destination": "CYVAS",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-18 04:46:44",
+    "post_gap_time": "2024-01-29 23:26:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "EUROLEADER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3138, 31.4727],
+        [32.3408, 31.4783]
+      ]
+    },
+    "mmsi": 636018733,
+    "destination": "PORT SAID",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-02 10:55:59",
+    "post_gap_time": "2024-01-03 05:59:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORIS MARINE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.4974, 36.7635],
+        [31.5043, 32.0381]
+      ]
+    },
+    "mmsi": 636021826,
+    "destination": "EGDAM",
+    "distance_km": 697,
+    "pre_gap_time": "2024-01-04 17:52:30",
+    "post_gap_time": "2024-01-13 00:29:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORIS MARINE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.5374, 31.9877],
+        [31.7487, 31.6616]
+      ]
+    },
+    "mmsi": 636021826,
+    "destination": "EGDAM",
+    "distance_km": 41,
+    "pre_gap_time": "2024-01-13 00:50:49",
+    "post_gap_time": "2024-01-13 17:03:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ATLANTIS ANTALYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.809, 35.7381],
+        [32.1177, 35.9563]
+      ]
+    },
+    "mmsi": 248252000,
+    "destination": "FOR ORDERS",
+    "distance_km": 67,
+    "pre_gap_time": "2024-01-01 10:43:09",
+    "post_gap_time": "2024-01-08 19:07:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PING AN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.4659, 32.0898],
+        [31.2126, 32.2018]
+      ]
+    },
+    "mmsi": 352002898,
+    "destination": "SAID.EGEYT",
+    "distance_km": 27,
+    "pre_gap_time": "2024-01-19 22:24:09",
+    "post_gap_time": "2024-01-27 05:55:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AXEL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4908, 33.8183],
+        [34.9269, 32.8936]
+      ]
+    },
+    "mmsi": 354671000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 115,
+    "pre_gap_time": "2024-01-02 07:56:33",
+    "post_gap_time": "2024-01-03 19:29:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AXEL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.4095, 33.7256],
+        [34.4217, 33.61]
+      ]
+    },
+    "mmsi": 354671000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 13,
+    "pre_gap_time": "2024-01-21 00:59:07",
+    "post_gap_time": "2024-01-21 01:51:58",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AXEL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0205, 32.8894],
+        [35.49, 33.8167]
+      ]
+    },
+    "mmsi": 354671000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 112,
+    "pre_gap_time": "2024-01-22 18:36:59",
+    "post_gap_time": "2024-01-23 10:19:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AXEL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4908, 33.8183],
+        [35.0223, 32.8872]
+      ]
+    },
+    "mmsi": 354671000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 112,
+    "pre_gap_time": "2024-01-23 16:59:15",
+    "post_gap_time": "2024-01-24 15:11:37",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ARINA 1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3643, 32.0698],
+        [32.2742, 31.5377]
+      ]
+    },
+    "mmsi": 511100469,
+    "destination": "DUBAI",
+    "distance_km": 104,
+    "pre_gap_time": "2024-01-08 23:20:41",
+    "post_gap_time": "2024-01-09 19:28:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ARINA 1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.28, 31.5337],
+        [31.5173, 32.1838]
+      ]
+    },
+    "mmsi": 511100469,
+    "destination": "DUBAI",
+    "distance_km": 102,
+    "pre_gap_time": "2024-01-18 04:54:47",
+    "post_gap_time": "2024-01-18 21:53:16",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CRONUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.4904, 31.4278],
+        [32.1917, 31.657]
+      ]
+    },
+    "mmsi": 538009259,
+    "destination": "EGPSD",
+    "distance_km": 38,
+    "pre_gap_time": "2024-01-01 19:33:26",
+    "post_gap_time": "2024-01-14 13:07:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CRONUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.1917, 31.657],
+        [32.3196, 31.6668]
+      ]
+    },
+    "mmsi": 538009259,
+    "destination": "EGPSD",
+    "distance_km": 12,
+    "pre_gap_time": "2024-01-14 13:07:21",
+    "post_gap_time": "2024-01-16 08:18:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CRONUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3196, 31.6668],
+        [32.4852, 31.4344]
+      ]
+    },
+    "mmsi": 538009259,
+    "destination": "EGPSD",
+    "distance_km": 30,
+    "pre_gap_time": "2024-01-16 08:18:04",
+    "post_gap_time": "2024-01-20 07:46:34",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.3244, 33.5329],
+        [35.3211, 33.5198]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB ZHR",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-03 10:24:48",
+    "post_gap_time": "2024-01-03 23:48:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.8098, 34.5223],
+        [35.8437, 34.4972]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB KYE",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-04 06:02:08",
+    "post_gap_time": "2024-01-05 05:45:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.8485, 34.4909],
+        [35.8972, 34.4951]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB KYE",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-06 05:58:07",
+    "post_gap_time": "2024-01-07 04:06:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.767, 34.5281],
+        [35.8546, 34.4952]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB KYE",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-16 03:09:58",
+    "post_gap_time": "2024-01-17 00:53:33",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.8546, 34.4952],
+        [35.5268, 34.1937]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB KYE",
+    "distance_km": 45,
+    "pre_gap_time": "2024-01-18 07:17:33",
+    "post_gap_time": "2024-01-20 08:58:38",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.3157, 33.5389],
+        [35.3236, 33.515]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB ZHR",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-20 12:37:50",
+    "post_gap_time": "2024-01-21 01:05:57",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3075, 34.346],
+        [30.6558, 34.6549]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB BEY",
+    "distance_km": 69,
+    "pre_gap_time": "2024-01-21 17:52:17",
+    "post_gap_time": "2024-01-28 20:38:40",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "WISE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9023, 34.1422],
+        [35.5231, 33.9173]
+      ]
+    },
+    "mmsi": 565252000,
+    "destination": "LB BEY",
+    "distance_km": 151,
+    "pre_gap_time": "2024-01-29 09:56:04",
+    "post_gap_time": "2024-01-30 19:38:54",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KNEBWORTH",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.2733, 31.945],
+        [34.1933, 31.9883]
+      ]
+    },
+    "mmsi": 566638000,
+    "destination": "SEA FOR ORDERS",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-18 03:59:36",
+    "post_gap_time": "2024-01-19 14:12:33",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ABU DHABI III",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.1154, 31.6365],
+        [32.2852, 31.4582]
+      ]
+    },
+    "mmsi": 636014923,
+    "destination": "EG PSD",
+    "distance_km": 26,
+    "pre_gap_time": "2024-01-01 21:08:00",
+    "post_gap_time": "2024-01-29 16:08:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MERA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.1198, 36.0773],
+        [35.9753, 36.8262]
+      ]
+    },
+    "mmsi": 636021892,
+    "destination": "TRTGT",
+    "distance_km": 530,
+    "pre_gap_time": "2024-01-18 21:27:33",
+    "post_gap_time": "2024-01-20 03:37:22",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GRACE FELIX",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.03, 35.115],
+        [30.2439, 35.3458]
+      ]
+    },
+    "mmsi": 636022735,
+    "destination": "FOR ORDERS",
+    "distance_km": 76,
+    "pre_gap_time": "2024-01-06 00:56:53",
+    "post_gap_time": "2024-01-06 18:04:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GRACE FELIX",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9988, 35.5883],
+        [34.6869, 36.5585]
+      ]
+    },
+    "mmsi": 636022735,
+    "destination": "MERSIN",
+    "distance_km": 435,
+    "pre_gap_time": "2024-01-07 09:37:55",
+    "post_gap_time": "2024-01-09 17:56:55",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GRACE FELIX",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.5995, 36.5894],
+        [31.035, 35.8417]
+      ]
+    },
+    "mmsi": 636022735,
+    "destination": "TRTUZ",
+    "distance_km": 330,
+    "pre_gap_time": "2024-01-15 07:33:19",
+    "post_gap_time": "2024-01-16 03:30:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MELDERSKIN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.2671, 36.234],
+        [31.1777, 35.7684]
+      ]
+    },
+    "mmsi": 257359000,
+    "destination": "GEBZE",
+    "distance_km": 371,
+    "pre_gap_time": "2024-01-07 11:36:41",
+    "post_gap_time": "2024-01-08 04:18:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALSU",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.2261, 31.9985],
+        [33.8356, 32.4545]
+      ]
+    },
+    "mmsi": 271049453,
+    "destination": "OPL PORT SAID",
+    "distance_km": 63,
+    "pre_gap_time": "2024-01-07 02:52:25",
+    "post_gap_time": "2024-01-09 22:37:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALSU",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9432, 35.8029],
+        [31.4845, 32.0531]
+      ]
+    },
+    "mmsi": 271049453,
+    "destination": "EGDAM",
+    "distance_km": 441,
+    "pre_gap_time": "2024-01-11 08:34:22",
+    "post_gap_time": "2024-01-19 21:29:08",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALSU",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7592, 31.4941],
+        [31.7637, 31.4592]
+      ]
+    },
+    "mmsi": 271049453,
+    "destination": "EGDAM",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-20 02:31:08",
+    "post_gap_time": "2024-01-21 08:26:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.0375, 36.0787],
+        [29.9974, 36.0764]
+      ]
+    },
+    "mmsi": 271049852,
+    "destination": "TRALI > TRAYT",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-02 10:43:02",
+    "post_gap_time": "2024-01-07 16:18:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.6047, 36.1679],
+        [30.2577, 36.1037]
+      ]
+    },
+    "mmsi": 271049852,
+    "destination": "TRAYT > TRALI",
+    "distance_km": 32,
+    "pre_gap_time": "2024-01-07 19:50:23",
+    "post_gap_time": "2024-01-10 18:01:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9092, 36.0751],
+        [29.9412, 36.0731]
+      ]
+    },
+    "mmsi": 271049852,
+    "destination": "TRALI > TRAYT",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-10 19:29:31",
+    "post_gap_time": "2024-01-15 10:27:12",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.1159, 36.0832],
+        [30.2203, 36.0961]
+      ]
+    },
+    "mmsi": 271049852,
+    "destination": "TRAYT > TRALI",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-15 11:15:10",
+    "post_gap_time": "2024-01-18 13:22:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.0351, 36.0799],
+        [29.9447, 36.0808]
+      ]
+    },
+    "mmsi": 271049852,
+    "destination": "TRALI > TRANT",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-18 14:09:25",
+    "post_gap_time": "2024-01-26 13:30:17",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.2749, 36.1027],
+        [30.4056, 36.0996]
+      ]
+    },
+    "mmsi": 271049852,
+    "destination": "TRAYT > TRALI",
+    "distance_km": 12,
+    "pre_gap_time": "2024-01-26 15:02:47",
+    "post_gap_time": "2024-01-29 11:30:10",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORIS DI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5267, 33.9317],
+        [35.5267, 33.905]
+      ]
+    },
+    "mmsi": 352001864,
+    "destination": "LBBEY",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-17 11:45:17",
+    "post_gap_time": "2024-01-20 17:39:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALFA SEA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.89, 35.7867],
+        [29.9042, 35.7863]
+      ]
+    },
+    "mmsi": 353657000,
+    "destination": "VASSILIKO,CYPRUS",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-22 23:23:04",
+    "post_gap_time": "2024-01-31 02:45:23",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "STI BROADWAY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3116, 30.5951],
+        [32.4322, 30.2874]
+      ]
+    },
+    "mmsi": 538005513,
+    "destination": "SUEZ",
+    "distance_km": 36,
+    "pre_gap_time": "2024-01-18 04:56:47",
+    "post_gap_time": "2024-01-18 19:17:32",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "STI BROADWAY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5526, 30.2223],
+        [32.4185, 30.3079]
+      ]
+    },
+    "mmsi": 538005513,
+    "destination": "SUEZ",
+    "distance_km": 16,
+    "pre_gap_time": "2024-01-18 20:00:53",
+    "post_gap_time": "2024-01-26 09:31:17",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HARBIYE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1416, 36.843],
+        [35.9693, 36.7817]
+      ]
+    },
+    "mmsi": 538010337,
+    "destination": "TRDYL",
+    "distance_km": 17,
+    "pre_gap_time": "2024-01-15 13:07:30",
+    "post_gap_time": "2024-01-17 15:21:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ATHINEA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.894, 31.7288],
+        [31.4848, 31.7508]
+      ]
+    },
+    "mmsi": 622120921,
+    "destination": "MERSA ELHAMRA",
+    "distance_km": 56,
+    "pre_gap_time": "2024-01-11 23:55:36",
+    "post_gap_time": "2024-01-16 19:24:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AL NABILA 6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8533, 31.6967],
+        [31.275, 31.715]
+      ]
+    },
+    "mmsi": 622120927,
+    "destination": "PORTSAID",
+    "distance_km": 40,
+    "pre_gap_time": "2024-01-15 02:33:51",
+    "post_gap_time": "2024-01-18 16:13:50",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AL NABILA 6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.88, 31.73],
+        [31.9083, 31.6833]
+      ]
+    },
+    "mmsi": 622120927,
+    "destination": "ALEXANDRIA",
+    "distance_km": 97,
+    "pre_gap_time": "2024-01-27 23:11:39",
+    "post_gap_time": "2024-01-31 18:13:22",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LYDIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.2725, 32.2388],
+        [31.4999, 32.0752]
+      ]
+    },
+    "mmsi": 626259000,
+    "destination": "KALAMATA",
+    "distance_km": 28,
+    "pre_gap_time": "2024-01-19 05:07:55",
+    "post_gap_time": "2024-01-29 20:05:18",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BUTTERFLY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3629, 31.2876],
+        [31.8133, 31.8233]
+      ]
+    },
+    "mmsi": 636018295,
+    "destination": "SUEZ",
+    "distance_km": 79,
+    "pre_gap_time": "2024-01-11 14:46:47",
+    "post_gap_time": "2024-01-12 06:05:35",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BRUNO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9073, 34.0985],
+        [35.8648, 34.5075]
+      ]
+    },
+    "mmsi": 636018672,
+    "destination": "LB KYE",
+    "distance_km": 185,
+    "pre_gap_time": "2024-01-04 17:49:47",
+    "post_gap_time": "2024-01-07 19:50:55",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BRUNO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.8648, 34.5075],
+        [34.3125, 34.391]
+      ]
+    },
+    "mmsi": 636018672,
+    "destination": "FOR ORDERS",
+    "distance_km": 143,
+    "pre_gap_time": "2024-01-07 19:50:55",
+    "post_gap_time": "2024-01-09 15:17:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ANDROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8, 31.7217],
+        [30.8633, 31.725]
+      ]
+    },
+    "mmsi": 209918000,
+    "destination": "EG PSD",
+    "distance_km": 6,
+    "pre_gap_time": "2024-01-19 02:19:31",
+    "post_gap_time": "2024-01-20 00:49:41",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "TORM KIARA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5552, 30.2195],
+        [32.5632, 30.2061]
+      ]
+    },
+    "mmsi": 219029411,
+    "destination": "SUEZ,EGYPT",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-11 11:31:25",
+    "post_gap_time": "2024-01-22 09:27:34",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "INNOVA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3785, 31.4335],
+        [32.3361, 31.4467]
+      ]
+    },
+    "mmsi": 574005230,
+    "destination": "EG PSD",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-14 11:26:31",
+    "post_gap_time": "2024-01-15 02:30:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM HOUSTON",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.289, 35.747],
+        [35.4902, 36.3205]
+      ]
+    },
+    "mmsi": 636016360,
+    "destination": "TRISK",
+    "distance_km": 472,
+    "pre_gap_time": "2024-01-31 00:34:54",
+    "post_gap_time": "2024-02-01 01:19:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BOW LIND",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5627, 30.2074],
+        [32.5567, 30.215]
+      ]
+    },
+    "mmsi": 257890000,
+    "destination": "ALGECIRAS",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-13 12:08:48",
+    "post_gap_time": "2024-01-19 09:35:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BAKI AKAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.4628, 36.106],
+        [30.7482, 36.7702]
+      ]
+    },
+    "mmsi": 271044414,
+    "destination": "TRAYT",
+    "distance_km": 78,
+    "pre_gap_time": "2024-01-02 14:56:34",
+    "post_gap_time": "2024-01-04 03:10:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BAKI AKAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9559, 36.0324],
+        [29.9333, 36.0338]
+      ]
+    },
+    "mmsi": 271044414,
+    "destination": "TRAYT",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-07 07:28:50",
+    "post_gap_time": "2024-01-13 02:35:29",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BAKI AKAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.1921, 36.0476],
+        [30.7162, 36.7803]
+      ]
+    },
+    "mmsi": 271044414,
+    "destination": "TRAYT",
+    "distance_km": 94,
+    "pre_gap_time": "2024-01-13 03:40:47",
+    "post_gap_time": "2024-01-15 03:44:43",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BAKI AKAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9031, 36.0215],
+        [29.9431, 36.0087]
+      ]
+    },
+    "mmsi": 271044414,
+    "destination": "TRISK",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-18 00:57:31",
+    "post_gap_time": "2024-01-27 23:36:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA GRACE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5151, 33.3156],
+        [32.4515, 33.2308]
+      ]
+    },
+    "mmsi": 215926000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-01 03:59:22",
+    "post_gap_time": "2024-01-01 18:23:02",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA GRACE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.783, 33.3469],
+        [35.4909, 33.8183]
+      ]
+    },
+    "mmsi": 215926000,
+    "destination": "FOR ORDERS",
+    "distance_km": 256,
+    "pre_gap_time": "2024-01-08 21:37:50",
+    "post_gap_time": "2024-01-13 19:13:07",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA GRACE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3775, 34.1462],
+        [32.4388, 32.5957]
+      ]
+    },
+    "mmsi": 215926000,
+    "destination": "VLORE ALBANIA",
+    "distance_km": 199,
+    "pre_gap_time": "2024-01-14 11:21:21",
+    "post_gap_time": "2024-01-23 16:17:44",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MARAN GAS HECTOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7542, 31.4674],
+        [31.7228, 31.728]
+      ]
+    },
+    "mmsi": 241425000,
+    "destination": "FOR ORDERS",
+    "distance_km": 29,
+    "pre_gap_time": "2024-01-31 05:31:23",
+    "post_gap_time": "2024-02-01 13:19:44",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "T.SEVGI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9347, 36.0549],
+        [29.92, 36.0788]
+      ]
+    },
+    "mmsi": 271002688,
+    "destination": "TRALI>TRAYT",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-13 18:00:13",
+    "post_gap_time": "2024-01-19 08:46:00",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "T.SEVGI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.6226, 36.3434],
+        [30.3215, 36.1256]
+      ]
+    },
+    "mmsi": 271002688,
+    "destination": "TRALI>TRAYT",
+    "distance_km": 36,
+    "pre_gap_time": "2024-01-19 12:17:31",
+    "post_gap_time": "2024-01-22 10:20:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "T.SUNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9222, 36.078],
+        [30.0251, 36.0775]
+      ]
+    },
+    "mmsi": 271043255,
+    "destination": "GRKLX>TRDYL",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-02 12:21:51",
+    "post_gap_time": "2024-01-19 19:14:30",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "T.SUNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1291, 36.8546],
+        [36.1061, 36.841]
+      ]
+    },
+    "mmsi": 271043255,
+    "destination": "GRKLX>TRDYL",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-23 21:40:13",
+    "post_gap_time": "2024-01-24 16:31:49",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "T.SUNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.0224, 36.069],
+        [30.0185, 36.0883]
+      ]
+    },
+    "mmsi": 271043255,
+    "destination": "TRMAR>TRDRT",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-25 17:33:41",
+    "post_gap_time": "2024-02-01 09:11:27",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PASHA K",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.7861, 36.6999],
+        [36.1615, 36.637]
+      ]
+    },
+    "mmsi": 271045105,
+    "destination": "",
+    "distance_km": 123,
+    "pre_gap_time": "2024-01-08 07:34:34",
+    "post_gap_time": "2024-01-12 10:56:11",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PASHA K",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1591, 36.6201],
+        [34.7904, 36.7012]
+      ]
+    },
+    "mmsi": 271045105,
+    "destination": "",
+    "distance_km": 122,
+    "pre_gap_time": "2024-01-13 06:53:31",
+    "post_gap_time": "2024-01-16 08:53:36",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PASHA K",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.8397, 36.6608],
+        [34.7826, 36.7037]
+      ]
+    },
+    "mmsi": 271045105,
+    "destination": "",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-18 04:28:04",
+    "post_gap_time": "2024-01-19 11:35:50",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GAS KAISERIN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2797, 31.6445],
+        [32.2453, 31.5017]
+      ]
+    },
+    "mmsi": 352002460,
+    "destination": "EG PSD",
+    "distance_km": 16,
+    "pre_gap_time": "2024-01-12 20:32:53",
+    "post_gap_time": "2024-01-13 12:24:44",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GAS KAISERIN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.249, 31.5318],
+        [32.2824, 31.6207]
+      ]
+    },
+    "mmsi": 352002460,
+    "destination": "EG PSD",
+    "distance_km": 10,
+    "pre_gap_time": "2024-01-14 14:50:45",
+    "post_gap_time": "2024-01-15 10:55:17",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2633, 31.3817],
+        [32.2767, 31.3917]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-03 04:58:08",
+    "post_gap_time": "2024-01-03 23:04:08",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2733, 31.3767],
+        [32.3012, 31.3733]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-07 10:25:23",
+    "post_gap_time": "2024-01-07 22:25:37",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2733, 31.3783],
+        [32.3083, 31.4617]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 10,
+    "pre_gap_time": "2024-01-09 04:37:26",
+    "post_gap_time": "2024-01-09 18:16:24",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3467, 31.5083],
+        [32.2717, 31.38]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 16,
+    "pre_gap_time": "2024-01-16 05:07:36",
+    "post_gap_time": "2024-01-17 00:52:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2717, 31.38],
+        [32.3367, 31.3683]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 6,
+    "pre_gap_time": "2024-01-17 04:34:41",
+    "post_gap_time": "2024-01-17 17:34:43",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2741, 31.3806],
+        [32.275, 31.3683]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-18 08:53:41",
+    "post_gap_time": "2024-01-18 21:04:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.275, 31.3667],
+        [32.2875, 31.3598]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-19 14:19:46",
+    "post_gap_time": "2024-01-21 01:02:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SPECTRUM",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2967, 31.4067],
+        [32.2767, 31.3717]
+      ]
+    },
+    "mmsi": 215675000,
+    "destination": "EGPSD",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-25 03:52:54",
+    "post_gap_time": "2024-01-25 18:59:02",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SUPERBA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.8904, 34.0334],
+        [35.5736, 33.9149]
+      ]
+    },
+    "mmsi": 311000133,
+    "destination": "LBBEY",
+    "distance_km": 156,
+    "pre_gap_time": "2024-01-15 22:32:29",
+    "post_gap_time": "2024-01-17 07:47:29",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SUPERBA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5736, 33.9149],
+        [35.5096, 33.9136]
+      ]
+    },
+    "mmsi": 311000133,
+    "destination": "LBBEY",
+    "distance_km": 6,
+    "pre_gap_time": "2024-01-17 07:47:29",
+    "post_gap_time": "2024-01-18 10:10:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SUPERBA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5096, 33.9136],
+        [35.3936, 33.6705]
+      ]
+    },
+    "mmsi": 311000133,
+    "destination": "LBBEY",
+    "distance_km": 29,
+    "pre_gap_time": "2024-01-18 10:10:51",
+    "post_gap_time": "2024-01-19 23:18:11",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SUPERBA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.3936, 33.6705],
+        [35.4076, 33.6574]
+      ]
+    },
+    "mmsi": 311000133,
+    "destination": "LBBEY",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-19 23:18:11",
+    "post_gap_time": "2024-01-20 14:44:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SUPERBA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.7003, 34.3307],
+        [35.0455, 34.3875]
+      ]
+    },
+    "mmsi": 311000133,
+    "destination": "ZAHRANI",
+    "distance_km": 60,
+    "pre_gap_time": "2024-01-22 04:39:48",
+    "post_gap_time": "2024-01-22 22:13:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SUPERBA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.125, 34.4776],
+        [34.6797, 34.469]
+      ]
+    },
+    "mmsi": 311000133,
+    "destination": "ZAHRANI",
+    "distance_km": 41,
+    "pre_gap_time": "2024-01-23 04:07:24",
+    "post_gap_time": "2024-01-23 19:56:20",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ELBRUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.5922, 36.1517],
+        [35.0544, 36.1717]
+      ]
+    },
+    "mmsi": 626361000,
+    "destination": "TRDYL",
+    "distance_km": 42,
+    "pre_gap_time": "2024-01-26 06:35:14",
+    "post_gap_time": "2024-01-26 21:47:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ELBRUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0624, 36.1876],
+        [34.9879, 36.1635]
+      ]
+    },
+    "mmsi": 626361000,
+    "destination": "TRDYL",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-27 02:12:50",
+    "post_gap_time": "2024-01-27 19:31:18",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ELBRUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.5484, 36.0383],
+        [35.1054, 36.1875]
+      ]
+    },
+    "mmsi": 626361000,
+    "destination": "TRDYL",
+    "distance_km": 53,
+    "pre_gap_time": "2024-01-28 09:28:19",
+    "post_gap_time": "2024-01-29 20:08:01",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ULUS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.4826, 35.6939],
+        [34.3999, 36.3834]
+      ]
+    },
+    "mmsi": 636023333,
+    "destination": "TRMER",
+    "distance_km": 360,
+    "pre_gap_time": "2024-01-29 20:22:25",
+    "post_gap_time": "2024-01-30 18:37:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AEGEAN UNITY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3035, 31.4732],
+        [32.3887, 31.3749]
+      ]
+    },
+    "mmsi": 241445000,
+    "destination": "EGPSD",
+    "distance_km": 14,
+    "pre_gap_time": "2024-01-17 11:33:53",
+    "post_gap_time": "2024-01-18 08:50:00",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ARAL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7355, 31.6105],
+        [32.2573, 31.3821]
+      ]
+    },
+    "mmsi": 248693000,
+    "destination": "MALAYSHA",
+    "distance_km": 56,
+    "pre_gap_time": "2024-01-09 20:25:12",
+    "post_gap_time": "2024-01-12 17:11:16",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ARCHANGEL ONE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4907, 33.8181],
+        [35.0153, 32.9033]
+      ]
+    },
+    "mmsi": 249301000,
+    "destination": "HAIFA",
+    "distance_km": 111,
+    "pre_gap_time": "2024-01-13 18:30:05",
+    "post_gap_time": "2024-01-14 08:42:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ARCHANGEL ONE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.8585, 35.5838],
+        [29.8783, 35.574]
+      ]
+    },
+    "mmsi": 249301000,
+    "destination": "HAIFA",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-18 14:30:32",
+    "post_gap_time": "2024-01-24 13:36:00",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AYSENAZ",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.8557, 36.3132],
+        [34.1447, 36.3335]
+      ]
+    },
+    "mmsi": 271044017,
+    "destination": "BGBOJ>TRCEY",
+    "distance_km": 64,
+    "pre_gap_time": "2024-01-10 19:58:13",
+    "post_gap_time": "2024-01-30 21:16:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "YENI YUZYIL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.005, 36.02],
+        [29.9062, 36.0216]
+      ]
+    },
+    "mmsi": 271052100,
+    "destination": "KKTC",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-02 05:56:04",
+    "post_gap_time": "2024-01-14 15:33:59",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GAZ INTERCEPTOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5534, 33.9271],
+        [34.5015, 34.2139]
+      ]
+    },
+    "mmsi": 351259000,
+    "destination": "LB BEY",
+    "distance_km": 102,
+    "pre_gap_time": "2024-01-22 04:19:48",
+    "post_gap_time": "2024-01-25 04:39:16",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VEMAHOPE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.302, 31.3684],
+        [32.3063, 31.3956]
+      ]
+    },
+    "mmsi": 354191000,
+    "destination": "PORT SAID",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-09 04:29:04",
+    "post_gap_time": "2024-01-09 20:58:00",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VEMAHOPE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2776, 31.3581],
+        [32.3267, 31.3636]
+      ]
+    },
+    "mmsi": 354191000,
+    "destination": "PORT SAID",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-09 23:35:19",
+    "post_gap_time": "2024-01-10 19:30:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VEMAHOPE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2785, 31.3726],
+        [32.268, 31.3754]
+      ]
+    },
+    "mmsi": 354191000,
+    "destination": "PORT SAID",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-14 05:20:27",
+    "post_gap_time": "2024-01-14 23:40:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VEMAHOPE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3188, 31.4731],
+        [32.2997, 31.4161]
+      ]
+    },
+    "mmsi": 354191000,
+    "destination": "PORT SAID",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-15 01:14:40",
+    "post_gap_time": "2024-01-15 15:57:59",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VEMAHOPE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8624, 31.7269],
+        [31.1779, 31.75]
+      ]
+    },
+    "mmsi": 354191000,
+    "destination": "ALEXANDRIA",
+    "distance_km": 30,
+    "pre_gap_time": "2024-01-29 01:55:13",
+    "post_gap_time": "2024-01-31 21:18:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GREAT JACOMBO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2817, 31.5133],
+        [32.2733, 31.5617]
+      ]
+    },
+    "mmsi": 626226000,
+    "destination": "SUEZ",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-23 07:11:34",
+    "post_gap_time": "2024-01-23 19:53:29",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CAROLINE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2215, 31.5075],
+        [32.3577, 31.2695]
+      ]
+    },
+    "mmsi": 636020186,
+    "destination": "PORTSAID",
+    "distance_km": 29,
+    "pre_gap_time": "2024-01-24 06:41:48",
+    "post_gap_time": "2024-01-25 04:05:12",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MALIK ALIYEV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.6553, 34.2837],
+        [35.5733, 34.29]
+      ]
+    },
+    "mmsi": 636093036,
+    "destination": "LBSEL",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-06 20:17:26",
+    "post_gap_time": "2024-01-09 05:39:16",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MALIK ALIYEV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4717, 34.2933],
+        [34.3, 35.8283]
+      ]
+    },
+    "mmsi": 636093036,
+    "destination": "LBSEL",
+    "distance_km": 201,
+    "pre_gap_time": "2024-01-09 06:12:20",
+    "post_gap_time": "2024-01-09 19:18:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SYROS WARRIOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3175, 31.4488],
+        [32.3335, 31.4528]
+      ]
+    },
+    "mmsi": 241406000,
+    "destination": "CN LYG",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-14 11:24:54",
+    "post_gap_time": "2024-01-15 00:56:18",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI ADMIRAL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1077, 36.8311],
+        [36.1417, 36.8417]
+      ]
+    },
+    "mmsi": 241751000,
+    "destination": "TR DYL",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-04 15:42:24",
+    "post_gap_time": "2024-01-05 04:35:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI ADMIRAL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.8625, 35.6974],
+        [29.8976, 35.6966]
+      ]
+    },
+    "mmsi": 241751000,
+    "destination": "TR DYL",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-08 20:07:01",
+    "post_gap_time": "2024-01-15 07:52:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AKINTURK 2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.8978, 36.2972],
+        [34.4001, 36.5101]
+      ]
+    },
+    "mmsi": 271001175,
+    "destination": "BUNKER BARGE",
+    "distance_km": 51,
+    "pre_gap_time": "2024-01-13 20:05:05",
+    "post_gap_time": "2024-01-14 21:57:03",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AKINTURK 2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.8915, 36.301],
+        [33.895, 36.3121]
+      ]
+    },
+    "mmsi": 271001175,
+    "destination": "BUNKER BARGE",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-16 08:15:27",
+    "post_gap_time": "2024-01-17 19:42:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AKINTURK 2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.342, 36.5154],
+        [33.8936, 36.3006]
+      ]
+    },
+    "mmsi": 271001175,
+    "destination": "BUNKER BARGE",
+    "distance_km": 47,
+    "pre_gap_time": "2024-01-18 18:47:28",
+    "post_gap_time": "2024-01-21 02:23:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AKINTURK 2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.8932, 36.3007],
+        [34.3765, 36.5782]
+      ]
+    },
+    "mmsi": 271001175,
+    "destination": "BUNKER BARGE",
+    "distance_km": 53,
+    "pre_gap_time": "2024-01-21 20:20:53",
+    "post_gap_time": "2024-01-24 03:41:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AKINTURK 2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.343, 36.5161],
+        [33.8925, 36.3018]
+      ]
+    },
+    "mmsi": 271001175,
+    "destination": "BUNKER BARGE",
+    "distance_km": 47,
+    "pre_gap_time": "2024-01-24 18:14:15",
+    "post_gap_time": "2024-01-28 20:37:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HISTRIA TIGER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.8583, 34.47],
+        [35.72, 34.55]
+      ]
+    },
+    "mmsi": 636013848,
+    "destination": "LBBEY",
+    "distance_km": 15,
+    "pre_gap_time": "2024-01-28 09:29:46",
+    "post_gap_time": "2024-01-29 09:27:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GEMINI SUN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.5279, 35.0518],
+        [30.5275, 35.1469]
+      ]
+    },
+    "mmsi": 636016275,
+    "destination": "HROMI=>TRCEY",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-02 17:20:16",
+    "post_gap_time": "2024-01-15 13:23:58",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GEMINI SUN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.5248, 35.1617],
+        [30.5253, 35.0648]
+      ]
+    },
+    "mmsi": 636016275,
+    "destination": "TRCEY",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-20 14:26:01",
+    "post_gap_time": "2024-02-01 14:19:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI SAILOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9182, 35.5445],
+        [32.0209, 34.3886]
+      ]
+    },
+    "mmsi": 636021628,
+    "destination": "LBBEY",
+    "distance_km": 231,
+    "pre_gap_time": "2024-01-10 09:06:51",
+    "post_gap_time": "2024-01-19 11:06:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI SAILOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5721, 33.9664],
+        [35.5932, 33.9688]
+      ]
+    },
+    "mmsi": 636021628,
+    "destination": "LBBEY",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-20 07:52:50",
+    "post_gap_time": "2024-01-21 03:16:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI SAILOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.5444, 33.9083],
+        [35.4807, 33.9507]
+      ]
+    },
+    "mmsi": 636021628,
+    "destination": "LBBEY",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-21 05:34:51",
+    "post_gap_time": "2024-01-22 11:08:56",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI SAILOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.1444, 34.2863],
+        [35.9255, 36.6936]
+      ]
+    },
+    "mmsi": 636021628,
+    "destination": "TRDYR",
+    "distance_km": 277,
+    "pre_gap_time": "2024-01-22 13:47:39",
+    "post_gap_time": "2024-01-23 10:28:49",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI SAILOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.0564, 36.7722],
+        [36.1104, 36.8202]
+      ]
+    },
+    "mmsi": 636021628,
+    "destination": "TRDYR",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-23 11:15:29",
+    "post_gap_time": "2024-01-24 20:25:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI SAILOR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1091, 36.8211],
+        [36.1387, 36.8451]
+      ]
+    },
+    "mmsi": 636021628,
+    "destination": "TRDYL",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-26 03:13:42",
+    "post_gap_time": "2024-01-26 15:15:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VALLESINA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9767, 32.0633],
+        [33.7383, 32.3767]
+      ]
+    },
+    "mmsi": 215065000,
+    "destination": "MALTA",
+    "distance_km": 41,
+    "pre_gap_time": "2024-01-15 01:41:16",
+    "post_gap_time": "2024-01-18 05:20:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "VALLESINA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9109, 32.095],
+        [33.6567, 32.27]
+      ]
+    },
+    "mmsi": 215065000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 31,
+    "pre_gap_time": "2024-01-22 05:04:46",
+    "post_gap_time": "2024-01-25 20:15:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI JADE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.1208, 36.2294],
+        [35.1549, 36.2286]
+      ]
+    },
+    "mmsi": 240942000,
+    "destination": "TRDYL",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-20 22:07:43",
+    "post_gap_time": "2024-01-21 11:58:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI JADE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.1549, 36.2286],
+        [35.0211, 36.1388]
+      ]
+    },
+    "mmsi": 240942000,
+    "destination": "TRDYL",
+    "distance_km": 16,
+    "pre_gap_time": "2024-01-21 11:58:13",
+    "post_gap_time": "2024-01-22 04:21:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.793, 35.909],
+        [35.737, 36.5645]
+      ]
+    },
+    "mmsi": 241322000,
+    "destination": "TRDYL",
+    "distance_km": 274,
+    "pre_gap_time": "2024-01-22 21:19:59",
+    "post_gap_time": "2024-01-23 09:55:40",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FUTURA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.5736, 32.9723],
+        [33.9695, 33.2179]
+      ]
+    },
+    "mmsi": 247158200,
+    "destination": "EG PSD FOR ORDS",
+    "distance_km": 63,
+    "pre_gap_time": "2024-01-19 00:13:33",
+    "post_gap_time": "2024-01-24 04:01:38",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "TEMIRO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.0264, 35.804],
+        [33.1694, 35.6836]
+      ]
+    },
+    "mmsi": 511100382,
+    "destination": "MERSIN",
+    "distance_km": 194,
+    "pre_gap_time": "2024-01-23 21:49:53",
+    "post_gap_time": "2024-01-24 14:17:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEAVEN VOYAGER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.075, 33.0133],
+        [34.6183, 32.9867]
+      ]
+    },
+    "mmsi": 241575000,
+    "destination": "FR FOS > EG PSD",
+    "distance_km": 51,
+    "pre_gap_time": "2024-01-18 04:46:26",
+    "post_gap_time": "2024-01-23 18:12:41",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "METEORA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.625, 34.1383],
+        [35.5683, 34.0233]
+      ]
+    },
+    "mmsi": 247284100,
+    "destination": "LB BEY",
+    "distance_km": 14,
+    "pre_gap_time": "2024-02-01 05:36:48",
+    "post_gap_time": "2024-02-01 19:42:49",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ZAGARA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.0433, 36.3267],
+        [32.08, 36.4233]
+      ]
+    },
+    "mmsi": 636021637,
+    "destination": "RU PRI>TR ALA",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-07 13:22:43",
+    "post_gap_time": "2024-01-09 06:13:40",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ZAGARA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.0333, 36.5083],
+        [32.105, 36.35]
+      ]
+    },
+    "mmsi": 636021637,
+    "destination": "RU PRI>TR ALA",
+    "distance_km": 19,
+    "pre_gap_time": "2024-01-09 08:28:40",
+    "post_gap_time": "2024-01-14 21:58:44",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AQASIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.2983, 34.2833],
+        [34.2567, 34.705]
+      ]
+    },
+    "mmsi": 215085000,
+    "destination": "ORDER",
+    "distance_km": 47,
+    "pre_gap_time": "2024-01-01 18:30:58",
+    "post_gap_time": "2024-01-04 12:22:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AQASIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.98, 35.3117],
+        [33.9933, 35.3183]
+      ]
+    },
+    "mmsi": 215085000,
+    "destination": "ORDER",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-05 05:01:08",
+    "post_gap_time": "2024-01-06 10:22:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AQASIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.2984, 34.382],
+        [34.325, 34.2883]
+      ]
+    },
+    "mmsi": 215085000,
+    "destination": "ORDER",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-13 14:17:22",
+    "post_gap_time": "2024-01-16 01:24:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AQASIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.2883, 34.305],
+        [34.3183, 34.305]
+      ]
+    },
+    "mmsi": 215085000,
+    "destination": "ORDER",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-20 20:45:57",
+    "post_gap_time": "2024-01-26 06:01:15",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ATHLOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.178, 33.9901],
+        [29.8814, 35.7884]
+      ]
+    },
+    "mmsi": 248011000,
+    "destination": "CYVAS",
+    "distance_km": 232,
+    "pre_gap_time": "2024-01-03 07:01:36",
+    "post_gap_time": "2024-01-27 22:47:03",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PETITE SOEUR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5522, 30.2238],
+        [32.5345, 30.2483]
+      ]
+    },
+    "mmsi": 538010335,
+    "destination": "SUEZ",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-13 11:54:09",
+    "post_gap_time": "2024-01-17 12:18:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ALEXIA 3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2909, 31.509],
+        [30.8784, 31.7303]
+      ]
+    },
+    "mmsi": 622120925,
+    "destination": "PORT SAID",
+    "distance_km": 136,
+    "pre_gap_time": "2024-01-04 19:43:03",
+    "post_gap_time": "2024-01-07 23:00:23",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NAVIGATOR LIBRA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5624, 30.2076],
+        [32.5345, 30.2483]
+      ]
+    },
+    "mmsi": 636015188,
+    "destination": "EGSUZ",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-04 14:15:09",
+    "post_gap_time": "2024-01-21 07:43:58",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "STOLT ZULU",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5555, 30.2185],
+        [32.5629, 30.2063]
+      ]
+    },
+    "mmsi": 636015971,
+    "destination": "SUEZ",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-08 15:25:57",
+    "post_gap_time": "2024-01-22 09:14:17",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AEGEAN NOBILITY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.1305, 35.8239],
+        [29.8974, 35.745]
+      ]
+    },
+    "mmsi": 240657000,
+    "destination": "TRCEY",
+    "distance_km": 23,
+    "pre_gap_time": "2024-01-02 06:03:54",
+    "post_gap_time": "2024-01-13 23:54:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LETA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.3019, 36.1353],
+        [30.1827, 36.0577]
+      ]
+    },
+    "mmsi": 271049700,
+    "destination": "TRAYT",
+    "distance_km": 14,
+    "pre_gap_time": "2024-01-01 14:43:02",
+    "post_gap_time": "2024-01-03 23:02:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "DAPHNE V",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.8035, 31.8512],
+        [32.2767, 31.4242]
+      ]
+    },
+    "mmsi": 352002063,
+    "destination": "EGPSD",
+    "distance_km": 65,
+    "pre_gap_time": "2024-01-10 09:52:04",
+    "post_gap_time": "2024-01-11 03:33:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MANTA DICLE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.557, 30.2163],
+        [32.318, 31.1337]
+      ]
+    },
+    "mmsi": 352524000,
+    "destination": "EGAIS>USHOU",
+    "distance_km": 105,
+    "pre_gap_time": "2024-01-14 11:33:24",
+    "post_gap_time": "2024-01-18 17:18:33",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FAIRCHEM HAWK",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.9763, 35.7669],
+        [34.9944, 36.204]
+      ]
+    },
+    "mmsi": 538008263,
+    "destination": "TR ISK",
+    "distance_km": 276,
+    "pre_gap_time": "2024-01-17 07:13:43",
+    "post_gap_time": "2024-01-17 19:43:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MTM KEY WEST",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7573, 31.4835],
+        [31.7644, 31.46]
+      ]
+    },
+    "mmsi": 563107700,
+    "destination": "ALEXANDRIA",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-13 01:53:44",
+    "post_gap_time": "2024-01-15 16:40:22",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "THALIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0061, 32.8194],
+        [35.0243, 32.8162]
+      ]
+    },
+    "mmsi": 636015372,
+    "destination": "HAIFA",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-11 02:19:53",
+    "post_gap_time": "2024-01-11 21:08:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "THALIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0063, 32.8187],
+        [35.4908, 33.8182]
+      ]
+    },
+    "mmsi": 636015372,
+    "destination": "HAIFA",
+    "distance_km": 120,
+    "pre_gap_time": "2024-01-22 18:48:57",
+    "post_gap_time": "2024-01-23 09:49:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "THALIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0064, 32.8188],
+        [35.4905, 33.8186]
+      ]
+    },
+    "mmsi": 636015372,
+    "destination": "HAIFA",
+    "distance_km": 120,
+    "pre_gap_time": "2024-01-24 23:10:08",
+    "post_gap_time": "2024-01-25 12:13:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NAVIGATOR GENESIS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5521, 30.2235],
+        [32.563, 30.2067]
+      ]
+    },
+    "mmsi": 636015945,
+    "destination": "SESTE",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-23 12:06:23",
+    "post_gap_time": "2024-01-26 07:42:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ANE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.8036, 35.7972],
+        [35.5322, 36.4637]
+      ]
+    },
+    "mmsi": 636022063,
+    "destination": "DORTYOL",
+    "distance_km": 256,
+    "pre_gap_time": "2024-01-14 15:30:20",
+    "post_gap_time": "2024-01-15 05:01:19",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ANE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1408, 36.8433],
+        [36.1299, 36.8378]
+      ]
+    },
+    "mmsi": 636022063,
+    "destination": "DORTYOL",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-24 11:49:05",
+    "post_gap_time": "2024-01-26 02:55:08",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROWAD A",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.285, 31.5518],
+        [32.2918, 31.5374]
+      ]
+    },
+    "mmsi": 677029800,
+    "destination": "BURSAID",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-01 08:42:17",
+    "post_gap_time": "2024-01-06 13:35:49",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROWAD A",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2922, 31.5381],
+        [32.3049, 31.5332]
+      ]
+    },
+    "mmsi": 677029800,
+    "destination": "BURSAID",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-07 19:47:43",
+    "post_gap_time": "2024-01-08 10:02:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROWAD A",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.0444, 35.204],
+        [34.0613, 35.1803]
+      ]
+    },
+    "mmsi": 677029800,
+    "destination": "BURSAID",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-09 16:25:38",
+    "post_gap_time": "2024-01-14 07:48:02",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROWAD A",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.567, 33.8456],
+        [34.1453, 35.0134]
+      ]
+    },
+    "mmsi": 677029800,
+    "destination": "BURSAID",
+    "distance_km": 135,
+    "pre_gap_time": "2024-01-14 21:02:27",
+    "post_gap_time": "2024-01-15 14:22:57",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROWAD A",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.9535, 35.1554],
+        [33.9409, 35.1687]
+      ]
+    },
+    "mmsi": 677029800,
+    "destination": "BURSAID",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-16 10:46:42",
+    "post_gap_time": "2024-01-17 19:24:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROWAD A",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.997, 35.2041],
+        [34.8433, 35.423]
+      ]
+    },
+    "mmsi": 677029800,
+    "destination": "BURSAID",
+    "distance_km": 81,
+    "pre_gap_time": "2024-01-19 08:33:58",
+    "post_gap_time": "2024-01-20 19:49:09",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SEASONG",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.7112, 32.9078],
+        [31.6551, 32.2486]
+      ]
+    },
+    "mmsi": 215811000,
+    "destination": "EGSKT",
+    "distance_km": 123,
+    "pre_gap_time": "2024-01-01 21:09:46",
+    "post_gap_time": "2024-01-05 05:45:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KIRSTEN MAERSK",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.186, 35.4155],
+        [35.0149, 36.1375]
+      ]
+    },
+    "mmsi": 220530000,
+    "destination": "TRDYL",
+    "distance_km": 355,
+    "pre_gap_time": "2024-01-18 09:29:36",
+    "post_gap_time": "2024-01-19 02:34:26",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LARA S",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.0757, 33.2128],
+        [31.3773, 32.1461]
+      ]
+    },
+    "mmsi": 249689000,
+    "destination": "EGPSD",
+    "distance_km": 135,
+    "pre_gap_time": "2024-01-07 23:36:18",
+    "post_gap_time": "2024-01-26 01:28:08",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LARA S",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2546, 31.6587],
+        [32.306, 31.6159]
+      ]
+    },
+    "mmsi": 249689000,
+    "destination": "EGPSD",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-26 06:46:40",
+    "post_gap_time": "2024-01-27 01:38:33",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LARA S",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3075, 31.6145],
+        [32.3108, 31.5306]
+      ]
+    },
+    "mmsi": 249689000,
+    "destination": "EGPSD",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-27 19:32:22",
+    "post_gap_time": "2024-01-28 13:19:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM LEADER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.615, 36.3417],
+        [30.99, 36.6667]
+      ]
+    },
+    "mmsi": 271050193,
+    "destination": "TR MER",
+    "distance_km": 49,
+    "pre_gap_time": "2024-01-08 10:46:14",
+    "post_gap_time": "2024-01-11 01:46:20",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CHEM LEADER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9517, 36.04],
+        [29.9067, 36.0767]
+      ]
+    },
+    "mmsi": 271050193,
+    "destination": "TR AYT",
+    "distance_km": 6,
+    "pre_gap_time": "2024-01-13 12:10:19",
+    "post_gap_time": "2024-01-30 20:52:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "SAKARYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2723, 31.471],
+        [32.406, 31.4425]
+      ]
+    },
+    "mmsi": 352002168,
+    "destination": "EGPSD",
+    "distance_km": 13,
+    "pre_gap_time": "2024-01-27 15:53:02",
+    "post_gap_time": "2024-01-28 05:27:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAFNIA SUNDA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.0293, 34.5114],
+        [30.6794, 34.7535]
+      ]
+    },
+    "mmsi": 566579000,
+    "destination": "CY VAS",
+    "distance_km": 42,
+    "pre_gap_time": "2024-01-03 08:47:46",
+    "post_gap_time": "2024-01-13 21:35:38",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAFNIA SUNDA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.2808, 33.541],
+        [34.1217, 34.1196]
+      ]
+    },
+    "mmsi": 566579000,
+    "destination": "LBZAH",
+    "distance_km": 125,
+    "pre_gap_time": "2024-01-22 20:45:59",
+    "post_gap_time": "2024-01-26 13:47:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAFNIA SUNDA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.6028, 34.9281],
+        [30.7434, 35.0019]
+      ]
+    },
+    "mmsi": 566579000,
+    "destination": "CYLMS",
+    "distance_km": 15,
+    "pre_gap_time": "2024-01-27 18:10:20",
+    "post_gap_time": "2024-02-01 05:25:19",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI EPISKOPI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.57, 33.915],
+        [35.3733, 33.9517]
+      ]
+    },
+    "mmsi": 636020714,
+    "destination": "LB JIE",
+    "distance_km": 19,
+    "pre_gap_time": "2024-01-06 05:12:18",
+    "post_gap_time": "2024-01-06 18:39:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "KRITI EPISKOPI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1394, 36.8408],
+        [36.1263, 36.8369]
+      ]
+    },
+    "mmsi": 636020714,
+    "destination": "GR PIR",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-10 04:00:24",
+    "post_gap_time": "2024-01-11 18:29:00",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA EMILY",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.1695, 33.0072],
+        [32.9486, 33.4947]
+      ]
+    },
+    "mmsi": 229084000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 126,
+    "pre_gap_time": "2024-01-18 04:36:10",
+    "post_gap_time": "2024-01-22 12:26:50",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "AEGEAN ANGEL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0941, 35.9082],
+        [35.6447, 36.5029]
+      ]
+    },
+    "mmsi": 240213000,
+    "destination": "TR CEY",
+    "distance_km": 83,
+    "pre_gap_time": "2024-01-04 09:18:27",
+    "post_gap_time": "2024-01-05 07:21:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MELTEMI",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3322, 31.4691],
+        [32.3636, 31.4705]
+      ]
+    },
+    "mmsi": 240458000,
+    "destination": "CN NBG",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-06 08:20:58",
+    "post_gap_time": "2024-01-07 03:31:11",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA KYTHNOS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3028, 31.6629],
+        [32.2899, 31.6373]
+      ]
+    },
+    "mmsi": 241132000,
+    "destination": "TRALI",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-14 15:09:11",
+    "post_gap_time": "2024-01-16 01:00:12",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LEROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2883, 31.3933],
+        [32.265, 31.37]
+      ]
+    },
+    "mmsi": 354089000,
+    "destination": "PORTSAID",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-07 05:35:51",
+    "post_gap_time": "2024-01-07 21:53:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LEROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3133, 31.415],
+        [32.4883, 31.4317]
+      ]
+    },
+    "mmsi": 354089000,
+    "destination": "PORTSAID",
+    "distance_km": 17,
+    "pre_gap_time": "2024-01-09 08:44:32",
+    "post_gap_time": "2024-01-09 21:41:33",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LEROS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.4883, 31.4367],
+        [32.3867, 31.4083]
+      ]
+    },
+    "mmsi": 354089000,
+    "destination": "PORTSAID",
+    "distance_km": 10,
+    "pre_gap_time": "2024-01-22 05:03:55",
+    "post_gap_time": "2024-01-23 06:36:58",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GIUSE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8945, 35.2628],
+        [30.4251, 35.241]
+      ]
+    },
+    "mmsi": 511100924,
+    "destination": "TR DYL",
+    "distance_km": 43,
+    "pre_gap_time": "2024-01-08 20:56:41",
+    "post_gap_time": "2024-01-25 02:33:12",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GIUSE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.151, 35.6344],
+        [35.8084, 36.6211]
+      ]
+    },
+    "mmsi": 511100924,
+    "destination": "TR DYL",
+    "distance_km": 263,
+    "pre_gap_time": "2024-01-25 15:28:23",
+    "post_gap_time": "2024-01-26 05:27:33",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "GAZ HORIZON",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.0064, 34.0823],
+        [34.8243, 34.0653]
+      ]
+    },
+    "mmsi": 538007915,
+    "destination": "CYLMS",
+    "distance_km": 75,
+    "pre_gap_time": "2024-01-01 20:54:48",
+    "post_gap_time": "2024-01-03 20:11:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "PVT AURORA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.2341, 31.743],
+        [31.1054, 32.2054]
+      ]
+    },
+    "mmsi": 574004570,
+    "destination": "EGPSE",
+    "distance_km": 53,
+    "pre_gap_time": "2024-01-09 23:32:17",
+    "post_gap_time": "2024-01-28 02:00:37",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NAVIS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3433, 30.6983],
+        [32.5617, 30.2083]
+      ]
+    },
+    "mmsi": 574004790,
+    "destination": "MIDIA",
+    "distance_km": 58,
+    "pre_gap_time": "2024-01-09 08:45:21",
+    "post_gap_time": "2024-01-12 07:42:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NAVIS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3633, 32.2717],
+        [31.315, 32.2767]
+      ]
+    },
+    "mmsi": 574004790,
+    "destination": "RAS SHUKHEIR",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-13 00:15:25",
+    "post_gap_time": "2024-01-25 05:04:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ORIENTAL PEARL",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5628, 30.2062],
+        [32.5433, 30.235]
+      ]
+    },
+    "mmsi": 626319000,
+    "destination": "SUEZ",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-01 15:52:52",
+    "post_gap_time": "2024-01-25 08:30:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OCEANIC MOON",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3917, 32.295],
+        [29.8717, 35.765]
+      ]
+    },
+    "mmsi": 636023107,
+    "destination": "FOR ORDER",
+    "distance_km": 410,
+    "pre_gap_time": "2024-01-07 02:30:05",
+    "post_gap_time": "2024-01-27 00:50:31",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "IRIS",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.0359, 32.813],
+        [35.0063, 32.8186]
+      ]
+    },
+    "mmsi": 209969000,
+    "destination": "HAIFA",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-10 07:46:15",
+    "post_gap_time": "2024-01-10 22:52:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MAR VESTA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.97, 35.3083],
+        [33.99, 35.32]
+      ]
+    },
+    "mmsi": 229866000,
+    "destination": "CYKAL",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-02 05:09:52",
+    "post_gap_time": "2024-01-02 19:03:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MAR VESTA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [33.99, 35.32],
+        [34.5961, 35.7862]
+      ]
+    },
+    "mmsi": 229866000,
+    "destination": "CYKAL",
+    "distance_km": 75,
+    "pre_gap_time": "2024-01-02 19:03:53",
+    "post_gap_time": "2024-01-03 22:28:37",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA JOANNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.25, 32.2583],
+        [31.6667, 32.5817]
+      ]
+    },
+    "mmsi": 240788000,
+    "destination": "AE KLF>EGPSD ORDERS",
+    "distance_km": 53,
+    "pre_gap_time": "2024-01-03 01:43:44",
+    "post_gap_time": "2024-01-15 18:05:13",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA JOANNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4908, 33.8182],
+        [34.4893, 31.6484]
+      ]
+    },
+    "mmsi": 240788000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 259,
+    "pre_gap_time": "2024-01-21 10:01:55",
+    "post_gap_time": "2024-01-22 02:58:55",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MINERVA JOANNA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.4968, 31.7388],
+        [34.46, 31.78]
+      ]
+    },
+    "mmsi": 240788000,
+    "destination": "OPL PORT SAID",
+    "distance_km": 6,
+    "pre_gap_time": "2024-01-22 18:31:16",
+    "post_gap_time": "2024-01-26 01:09:08",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LIDYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.555, 36.2867],
+        [30.5883, 36.4]
+      ]
+    },
+    "mmsi": 271045665,
+    "destination": "TR AYT",
+    "distance_km": 13,
+    "pre_gap_time": "2024-01-02 02:32:10",
+    "post_gap_time": "2024-01-03 13:55:59",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LIDYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9205, 36.0946],
+        [29.905, 36.0517]
+      ]
+    },
+    "mmsi": 271045665,
+    "destination": "TR AYT",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-03 18:56:46",
+    "post_gap_time": "2024-01-08 09:25:16",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LIDYA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.4667, 36.095],
+        [30.605, 36.4383]
+      ]
+    },
+    "mmsi": 271045665,
+    "destination": "TR AYT",
+    "distance_km": 40,
+    "pre_gap_time": "2024-01-08 12:41:19",
+    "post_gap_time": "2024-01-11 19:17:22",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ILGAZ",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.2521, 35.9847],
+        [35.8989, 36.6728]
+      ]
+    },
+    "mmsi": 271048807,
+    "destination": "TR CEY",
+    "distance_km": 512,
+    "pre_gap_time": "2024-01-09 07:43:43",
+    "post_gap_time": "2024-01-10 08:00:36",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAJIDAVUD",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1114, 36.772],
+        [36.1117, 36.8101]
+      ]
+    },
+    "mmsi": 273318810,
+    "destination": "TR ISK",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-02 02:48:21",
+    "post_gap_time": "2024-01-02 17:02:27",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAJIDAVUD",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.8935, 36.2543],
+        [31.1962, 35.99]
+      ]
+    },
+    "mmsi": 273318810,
+    "destination": "RU YEY",
+    "distance_km": 333,
+    "pre_gap_time": "2024-01-12 03:36:07",
+    "post_gap_time": "2024-01-13 07:46:59",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "QUEEN MARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2687, 31.5058],
+        [32.265, 31.516]
+      ]
+    },
+    "mmsi": 352001636,
+    "destination": "PORT SAID",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-19 07:02:43",
+    "post_gap_time": "2024-01-20 08:58:48",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "QUEEN MARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2733, 31.5163],
+        [32.2685, 31.4972]
+      ]
+    },
+    "mmsi": 352001636,
+    "destination": "PORT SAID",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-21 22:22:29",
+    "post_gap_time": "2024-01-22 16:46:05",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "QUEEN MARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2407, 31.4988],
+        [32.2557, 31.4928]
+      ]
+    },
+    "mmsi": 352001636,
+    "destination": "PORT SAID",
+    "distance_km": 2,
+    "pre_gap_time": "2024-01-22 20:33:05",
+    "post_gap_time": "2024-01-23 21:03:04",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "QUEEN MARIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2797, 31.5332],
+        [32.2663, 31.4973]
+      ]
+    },
+    "mmsi": 352001636,
+    "destination": "PORT SAID",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-29 04:16:14",
+    "post_gap_time": "2024-01-29 17:54:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CABO NEGRO II",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7536, 31.4627],
+        [31.763, 31.6824]
+      ]
+    },
+    "mmsi": 352984000,
+    "destination": "EGDAM",
+    "distance_km": 24,
+    "pre_gap_time": "2024-01-22 14:01:20",
+    "post_gap_time": "2024-01-24 06:40:47",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MATRAH",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.4271, 32.2015],
+        [31.3717, 32.1518]
+      ]
+    },
+    "mmsi": 370985000,
+    "destination": "PORT SAID,SUEZ",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-01 00:35:49",
+    "post_gap_time": "2024-01-29 21:14:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROLLS I",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8683, 34.27],
+        [31.1083, 34.16]
+      ]
+    },
+    "mmsi": 374496000,
+    "destination": "SEA FOR ORDERS",
+    "distance_km": 25,
+    "pre_gap_time": "2024-01-01 16:52:29",
+    "post_gap_time": "2024-01-11 16:01:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ROLLS I",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8374, 34.2782],
+        [30.9233, 34.245]
+      ]
+    },
+    "mmsi": 374496000,
+    "destination": "SEA FOR ORDERS",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-19 18:39:19",
+    "post_gap_time": "2024-01-31 12:53:25",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "NAVIG8 PRIDE LHJ",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5583, 30.21],
+        [32.5533, 30.22]
+      ]
+    },
+    "mmsi": 538010319,
+    "destination": "SUEZ F0R ORDERS",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-06 12:55:40",
+    "post_gap_time": "2024-01-21 10:19:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BERGA II",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.719, 31.6181],
+        [32.0443, 31.6659]
+      ]
+    },
+    "mmsi": 605076051,
+    "destination": "EGDAM",
+    "distance_km": 31,
+    "pre_gap_time": "2024-01-03 00:32:47",
+    "post_gap_time": "2024-01-04 10:36:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LIWA-V",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3744, 31.3263],
+        [31.4626, 32.1084]
+      ]
+    },
+    "mmsi": 636014929,
+    "destination": "NLRTM",
+    "distance_km": 122,
+    "pre_gap_time": "2024-01-04 20:29:37",
+    "post_gap_time": "2024-01-23 20:15:41",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "METIN HUSEYNOV",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.9133, 36.0417],
+        [30.28, 36.0517]
+      ]
+    },
+    "mmsi": 636021744,
+    "destination": "TRCEY",
+    "distance_km": 33,
+    "pre_gap_time": "2024-01-03 03:10:25",
+    "post_gap_time": "2024-01-30 16:14:21",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "STEMNITSA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1342, 36.8367],
+        [35.8121, 36.6744]
+      ]
+    },
+    "mmsi": 249007000,
+    "destination": "PIRAEUS FOR ORDERS",
+    "distance_km": 34,
+    "pre_gap_time": "2024-01-11 16:27:51",
+    "post_gap_time": "2024-01-13 15:30:37",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "STEMNITSA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5533, 30.22],
+        [32.5233, 30.255]
+      ]
+    },
+    "mmsi": 249007000,
+    "destination": "MALTA FOR ORDERS",
+    "distance_km": 5,
+    "pre_gap_time": "2024-01-19 12:54:33",
+    "post_gap_time": "2024-01-28 08:54:51",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HELLAS POSEIDON",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [36.1367, 36.8467],
+        [36.1072, 36.8327]
+      ]
+    },
+    "mmsi": 256732000,
+    "destination": "TRDYL",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-18 14:19:41",
+    "post_gap_time": "2024-01-19 05:54:10",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LYRIC CAMELLIA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.3783, 32.1543],
+        [31.3326, 32.2055]
+      ]
+    },
+    "mmsi": 311000359,
+    "destination": "PORT SAID",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-11 00:24:42",
+    "post_gap_time": "2024-01-16 23:08:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "BARAKAALE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.6068, 31.2449],
+        [32.5611, 30.2095]
+      ]
+    },
+    "mmsi": 373903000,
+    "destination": "SUEZ",
+    "distance_km": 147,
+    "pre_gap_time": "2024-01-30 06:13:16",
+    "post_gap_time": "2024-01-31 09:08:35",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAFNIA ARONALDO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.4883, 33.945],
+        [35.5533, 33.9067]
+      ]
+    },
+    "mmsi": 538005776,
+    "destination": "LB BEY",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-29 05:32:55",
+    "post_gap_time": "2024-01-30 03:41:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MARLIN LORETO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.1717, 32.23],
+        [31.0967, 32.1967]
+      ]
+    },
+    "mmsi": 538009736,
+    "destination": "PORT SAID EGYPT",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-06 23:51:07",
+    "post_gap_time": "2024-01-23 11:24:16",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MARLIN LORETO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.5632, 30.2065],
+        [32.5433, 30.2333]
+      ]
+    },
+    "mmsi": 538009736,
+    "destination": "FRFOS",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-25 13:23:12",
+    "post_gap_time": "2024-02-01 08:27:19",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ATLAS STAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [34.4836, 31.7294],
+        [33.2797, 33.125]
+      ]
+    },
+    "mmsi": 636022888,
+    "destination": "PORT SAID FOR ORDER",
+    "distance_km": 192,
+    "pre_gap_time": "2024-01-02 04:54:23",
+    "post_gap_time": "2024-01-21 16:02:57",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "ISAAC LEVITAN",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.4917, 35.9033],
+        [32.6933, 35.8533]
+      ]
+    },
+    "mmsi": 273356390,
+    "destination": "MER",
+    "distance_km": 198,
+    "pre_gap_time": "2024-01-04 06:44:45",
+    "post_gap_time": "2024-01-04 20:08:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "LHOTSE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3051, 31.6301],
+        [32.2906, 31.4367]
+      ]
+    },
+    "mmsi": 352002120,
+    "destination": "EG PSD",
+    "distance_km": 22,
+    "pre_gap_time": "2024-01-14 03:33:40",
+    "post_gap_time": "2024-01-14 16:12:22",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "EPSILON SEA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [29.8867, 35.7683],
+        [29.865, 35.7067]
+      ]
+    },
+    "mmsi": 354198000,
+    "destination": "VASILIKO/CYPRUS",
+    "distance_km": 7,
+    "pre_gap_time": "2024-01-08 00:20:15",
+    "post_gap_time": "2024-01-12 20:17:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "EPSILON SEA",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.066, 35.698],
+        [29.9654, 35.8338]
+      ]
+    },
+    "mmsi": 354198000,
+    "destination": "VASILIKO/CYPRUS",
+    "distance_km": 18,
+    "pre_gap_time": "2024-01-19 19:28:54",
+    "post_gap_time": "2024-01-26 00:55:55",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FAIR SKIES",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.2911, 32.2724],
+        [32.2905, 31.3886]
+      ]
+    },
+    "mmsi": 538009510,
+    "destination": "ITFCO",
+    "distance_km": 136,
+    "pre_gap_time": "2024-01-16 08:18:24",
+    "post_gap_time": "2024-01-17 06:27:19",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FAIR SKIES",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.3314, 31.1776],
+        [32.32, 31.1398]
+      ]
+    },
+    "mmsi": 538009510,
+    "destination": "EG SUZ",
+    "distance_km": 4,
+    "pre_gap_time": "2024-01-17 08:46:50",
+    "post_gap_time": "2024-01-25 16:10:52",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MAERSK BRIGIT",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.7733, 34.3817],
+        [30.8333, 34.2917]
+      ]
+    },
+    "mmsi": 563481000,
+    "destination": "GIBRALTAR FOR ORDERS",
+    "distance_km": 11,
+    "pre_gap_time": "2024-01-03 08:10:12",
+    "post_gap_time": "2024-01-03 23:33:45",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MAERSK BRIGIT",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.6933, 34.395],
+        [30.5183, 34.715]
+      ]
+    },
+    "mmsi": 563481000,
+    "destination": "CY VAS",
+    "distance_km": 39,
+    "pre_gap_time": "2024-01-05 08:36:12",
+    "post_gap_time": "2024-01-11 16:00:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "FELIX",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.9767, 34.38],
+        [31.01, 34.3783]
+      ]
+    },
+    "mmsi": 636013764,
+    "destination": "BEIRUT",
+    "distance_km": 3,
+    "pre_gap_time": "2024-01-21 00:29:26",
+    "post_gap_time": "2024-01-24 14:54:46",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MERENGUE",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.306, 31.4119],
+        [32.2865, 31.4863]
+      ]
+    },
+    "mmsi": 636022648,
+    "destination": "EG SUZ",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-22 12:15:04",
+    "post_gap_time": "2024-01-23 19:54:28",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "OCEANIC STAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.557, 30.216],
+        [32.55, 30.225]
+      ]
+    },
+    "mmsi": 636023106,
+    "destination": "FOR ORDER",
+    "distance_km": 1,
+    "pre_gap_time": "2024-01-16 11:04:24",
+    "post_gap_time": "2024-01-24 07:16:06",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "B. STAR",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [30.8717, 31.9033],
+        [30.8483, 31.8233]
+      ]
+    },
+    "mmsi": 256048000,
+    "destination": "PORT SAID",
+    "distance_km": 9,
+    "pre_gap_time": "2024-01-04 07:02:52",
+    "post_gap_time": "2024-01-05 18:26:53",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAFNIA AMBER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.6683, 32.8817],
+        [31.725, 32.8317]
+      ]
+    },
+    "mmsi": 538005771,
+    "destination": "LB KYE",
+    "distance_km": 8,
+    "pre_gap_time": "2024-01-12 07:07:07",
+    "post_gap_time": "2024-01-17 21:49:14",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "HAFNIA AMBER",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [35.84, 34.5],
+        [35.9017, 34.4917]
+      ]
+    },
+    "mmsi": 538005771,
+    "destination": "LB ZHR",
+    "distance_km": 6,
+    "pre_gap_time": "2024-01-29 05:58:30",
+    "post_gap_time": "2024-01-30 01:46:39",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "CORAL I",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [32.2903, 31.3759],
+        [32.3374, 30.6735]
+      ]
+    },
+    "mmsi": 636020852,
+    "destination": "EG PSD",
+    "distance_km": 78,
+    "pre_gap_time": "2024-01-14 13:28:52",
+    "post_gap_time": "2024-01-15 07:09:23",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  },
+  {
+    "name": "MILLEROVO",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [31.7667, 31.4582],
+        [31.7964, 31.5901]
+      ]
+    },
+    "mmsi": 273351980,
+    "destination": "TO ORDER",
+    "distance_km": 15,
+    "pre_gap_time": "2024-01-13 03:29:04",
+    "post_gap_time": "2024-01-14 14:50:11",
+    "vessel_type": "Tanker",
+    "color": "#000000"
+  }
+]
