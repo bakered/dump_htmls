@@ -3,9 +3,9 @@ import { showPieChart, hidePieChart } from './overlay.js';
 document.addEventListener("DOMContentLoaded", function() {
     (async () => {
         // set the filepath to where the data and the settings are saved 
-        const data_filepath = `/static/${user_id}`;  // Path to user-specific map data
+        const data_filepath = `../static/${user_id}`;  // Path to user-specific map data
         // set the filepath to where the topology worldmap-economies-54030.topo.json is saved
-        const topology_filepath = '/static';  // Path to topology file
+        const topology_filepath = '../static';  // Path to topology file
 
         // Fetch the topology
         const topology = await fetch(`${topology_filepath}/worldmap-economies-54030.topo.json`).then(response => response.json());

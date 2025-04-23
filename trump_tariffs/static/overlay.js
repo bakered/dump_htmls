@@ -22,10 +22,10 @@ function initializeProductGroupColors() {
 // Load data files once
 (async () => {
   try {
-    importsData = await fetch('/static/data/imports_by_group.json').then(res => res.json());
+    importsData = await fetch('../static/data/imports_by_group.json').then(res => res.json());
     initializeProductGroupColors();
-    tariffsData = await fetch('/static/data/avg_tariff_by_group.json').then(res => res.json());
-    contribData = await fetch('/static/data/tariff_contrib_by_group.json').then(res => res.json());
+    tariffsData = await fetch('../static/data/avg_tariff_by_group.json').then(res => res.json());
+    contribData = await fetch('../static/data/tariff_contrib_by_group.json').then(res => res.json());
   } catch (err) {
     console.error("Error loading data:", err);
   }
