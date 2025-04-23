@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Highcharts Map</title>
+        <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/offline-exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/export-data.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/pattern-fill.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+
+            
+        <!-- Link to the external CSS file -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+        <script>
+            // Inject the user_id into the JavaScript from Flask
+            var user_id = "data"; 
+        </script>
+
+    </head>
+
+<body>
+
+    <!-- Map Container -->
+    <div id="container"></div>
+
+    <!-- Load JS File -->
+    <script src="/static/hc_map.js"></script>
+
+</body>
+</html>

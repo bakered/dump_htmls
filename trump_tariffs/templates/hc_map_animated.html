@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Highcharts Map</title>
+        <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/offline-exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/export-data.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/pattern-fill.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+
+            
+        <!-- Link to the external CSS file -->
+        <link rel="stylesheet" href="/static/css/styles.css">
+
+        <script>
+            // Inject the user_id into the JavaScript from Flask
+            var user_id = "data"; 
+        </script>
+
+    </head>
+
+<body>
+
+    <div id="mapTitleBlock" style="padding: 20px 30px;">
+        <h1 style="margin: 0; font-size: 1.8em;">Uncovering the real size of “reciprocal” tariffs</h1>
+        <p style="margin: 5px 0 20px 0; font-size: 1em; color: #555;">
+          Trade-weighted applied tariffs on US imports. Click on the bubbles for breakdown.
+        </p>
+      </div>
+
+    <div class="right-content">
+        <!-- Controls aka slider-->
+    <div id="mainControlsSlot">
+        <div id="controls" class="slider-wrapper">
+            <!-- Title -->
+            <div class="slider-title">Which tariffs?</div>
+        
+            <!-- Slider and labels stacked -->
+            <div class="slider-stack">
+            <!-- Labels -->
+            <div class="slider-labels">
+                <span>Pre Jan 2025</span>
+                <span>During 90 Day Pause</span>
+                <span>After 90 Day Pause</span>
+            </div>
+        
+            <!-- Slider -->
+            <input type="range" id="tariff_structureSlider" min="1" max="3" step="1">
+            </div>
+        </div>
+    </div>
+
+        <!-- Map Container -->
+        <div id="container"></div>
+
+    
+
+    <!-- Overlay pie chart -->
+    <div id="pieOverlay">
+        <div id="pieOverlayInner" class="pie-inner">
+            <div class="pie-header">
+                <span id="closePieButton" class="close-icon">✖</span>
+                <h2 id="pieOverlayTitle" class="overlay-title">Breakdown for ...</h2>
+            </div>
+      
+            <div id="overlayChartsRow">
+                <div id="importsBarContainer" class="bar-container"></div>
+                <div id="tariffBarContainer" class="bar-container"></div>
+                <div id="pieContainer" class="pie-container"></div>
+            </div>
+      
+            <div id="overlaySliderSlot"></div>
+            <div id="pieInfo" class="pie-info-panel">This is some info...</div>
+        </div>
+    </div>
+
+
+    <!-- Load JS File -->
+    <script type="module"  src="/static/hc_map_animated.js"></script>
+
+</body>
+</html>
