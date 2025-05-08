@@ -106,7 +106,7 @@
     "total_imports": 47104169,
     "change_old": 17.003,
     "change": 10.0055,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 29.5015,
     "code": "454"
@@ -122,7 +122,7 @@
     "total_imports": 47104169,
     "change_old": 17.003,
     "change": 10.0055,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 39.507,
     "code": "454"
@@ -138,7 +138,7 @@
     "total_imports": 47104169,
     "change_old": 17.003,
     "change": 10.0055,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 46.5044,
     "code": "454"
@@ -154,7 +154,7 @@
     "total_imports": 844427436,
     "change_old": 10.0483,
     "change": 10.0483,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 14.1224,
     "code": "332"
@@ -170,7 +170,7 @@
     "total_imports": 844427436,
     "change_old": 10.0483,
     "change": 10.0483,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 24.1707,
     "code": "332"
@@ -186,7 +186,7 @@
     "total_imports": 844427436,
     "change_old": 10.0483,
     "change": 10.0483,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 24.1707,
     "code": "332"
@@ -298,7 +298,7 @@
     "total_imports": 8583024539,
     "change_old": 36.9077,
     "change": 9.994,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 10.8282,
     "code": "050"
@@ -314,7 +314,7 @@
     "total_imports": 8583024539,
     "change_old": 36.9077,
     "change": 9.994,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 20.8221,
     "code": "050"
@@ -330,7 +330,7 @@
     "total_imports": 8583024539,
     "change_old": 36.9077,
     "change": 9.994,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 47.7358,
     "code": "050"
@@ -682,7 +682,7 @@
     "total_imports": 469527508,
     "change_old": 10.0191,
     "change": 10.0191,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 7.0707,
     "code": "231"
@@ -698,7 +698,7 @@
     "total_imports": 469527508,
     "change_old": 10.0191,
     "change": 10.0191,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 17.0899,
     "code": "231"
@@ -714,7 +714,7 @@
     "total_imports": 469527508,
     "change_old": 10.0191,
     "change": 10.0191,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 17.0899,
     "code": "231"
@@ -922,7 +922,7 @@
     "total_imports": 241520,
     "change_old": 10.3208,
     "change": 10.3208,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 5.7847,
     "code": "728"
@@ -938,7 +938,7 @@
     "total_imports": 241520,
     "change_old": 10.3208,
     "change": 10.3208,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 16.1055,
     "code": "728"
@@ -954,7 +954,7 @@
     "total_imports": 241520,
     "change_old": 10.3208,
     "change": 10.3208,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 16.1055,
     "code": "728"
@@ -1162,7 +1162,7 @@
     "total_imports": 898149549,
     "change_old": 42.9355,
     "change": 10.4705,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 5.4849,
     "code": "104"
@@ -1178,7 +1178,7 @@
     "total_imports": 898149549,
     "change_old": 42.9355,
     "change": 10.4705,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 15.9554,
     "code": "104"
@@ -1194,7 +1194,7 @@
     "total_imports": 898149549,
     "change_old": 42.9355,
     "change": 10.4705,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 48.4204,
     "code": "104"
@@ -1258,7 +1258,7 @@
     "total_imports": 12086259963,
     "change_old": 46.6568,
     "change": 10.4696,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 5.3274,
     "code": "116"
@@ -1274,7 +1274,7 @@
     "total_imports": 12086259963,
     "change_old": 46.6568,
     "change": 10.4696,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 15.7969,
     "code": "116"
@@ -1290,7 +1290,7 @@
     "total_imports": 12086259963,
     "change_old": 46.6568,
     "change": 10.4696,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 51.9842,
     "code": "116"
@@ -1354,7 +1354,7 @@
     "total_imports": 371725,
     "change_old": 15.0606,
     "change": 15.0606,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.6434,
     "code": "232"
@@ -1370,7 +1370,7 @@
     "total_imports": 371725,
     "change_old": 15.0606,
     "change": 15.0606,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 15.7039,
     "code": "232"
@@ -1386,7 +1386,7 @@
     "total_imports": 371725,
     "change_old": 15.0606,
     "change": 15.0606,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 15.7039,
     "code": "232"
@@ -2458,7 +2458,7 @@
     "total_imports": 4439689,
     "change_old": 11.308,
     "change": 11.308,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 1.6111,
     "code": "478"
@@ -2474,7 +2474,7 @@
     "total_imports": 4439689,
     "change_old": 11.308,
     "change": 11.308,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 12.9192,
     "code": "478"
@@ -2490,7 +2490,7 @@
     "total_imports": 4439689,
     "change_old": 11.308,
     "change": 11.308,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 12.9192,
     "code": "478"
@@ -2938,7 +2938,7 @@
     "total_imports": 472479,
     "change_old": 10.2095,
     "change": 10.2095,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 1.7537,
     "code": "798"
@@ -2954,7 +2954,7 @@
     "total_imports": 472479,
     "change_old": 10.2095,
     "change": 10.2095,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 11.9632,
     "code": "798"
@@ -2970,7 +2970,7 @@
     "total_imports": 472479,
     "change_old": 10.2095,
     "change": 10.2095,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 11.9632,
     "code": "798"
@@ -2986,7 +2986,7 @@
     "total_imports": 306122501,
     "change_old": 40.8175,
     "change": 8.5192,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 3.4438,
     "code": "418"
@@ -3002,7 +3002,7 @@
     "total_imports": 306122501,
     "change_old": 40.8175,
     "change": 8.5192,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 11.963,
     "code": "418"
@@ -3018,7 +3018,7 @@
     "total_imports": 306122501,
     "change_old": 40.8175,
     "change": 8.5192,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 44.2613,
     "code": "418"
@@ -3274,7 +3274,7 @@
     "total_imports": 3979902,
     "change_old": 11.5643,
     "change": 11.5643,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.1493,
     "code": "854"
@@ -3290,7 +3290,7 @@
     "total_imports": 3979902,
     "change_old": 11.5643,
     "change": 11.5643,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 11.7136,
     "code": "854"
@@ -3306,7 +3306,7 @@
     "total_imports": 3979902,
     "change_old": 11.5643,
     "change": 11.5643,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 11.7136,
     "code": "854"
@@ -3418,7 +3418,7 @@
     "total_imports": 6779008,
     "change_old": 10.8327,
     "change": 10.8327,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.7597,
     "code": "887"
@@ -3434,7 +3434,7 @@
     "total_imports": 6779008,
     "change_old": 10.8327,
     "change": 10.8327,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 11.5924,
     "code": "887"
@@ -3450,7 +3450,7 @@
     "total_imports": 6779008,
     "change_old": 10.8327,
     "change": 10.8327,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 11.5924,
     "code": "887"
@@ -3610,7 +3610,7 @@
     "total_imports": 20609202,
     "change_old": 10.0761,
     "change": 10.0761,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 1.2422,
     "code": "004"
@@ -3626,7 +3626,7 @@
     "total_imports": 20609202,
     "change_old": 10.0761,
     "change": 10.0761,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 11.3183,
     "code": "004"
@@ -3642,7 +3642,7 @@
     "total_imports": 20609202,
     "change_old": 10.0761,
     "change": 10.0761,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 11.3183,
     "code": "004"
@@ -3658,7 +3658,7 @@
     "total_imports": 139903353,
     "change_old": 10.064,
     "change": 10.064,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 1.1413,
     "code": "524"
@@ -3674,7 +3674,7 @@
     "total_imports": 139903353,
     "change_old": 10.064,
     "change": 10.064,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 11.2053,
     "code": "524"
@@ -3690,7 +3690,7 @@
     "total_imports": 139903353,
     "change_old": 10.064,
     "change": 10.064,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 11.2053,
     "code": "524"
@@ -3754,7 +3754,7 @@
     "total_imports": 403291,
     "change_old": 10.8917,
     "change": 10.8917,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0027,
     "code": "296"
@@ -3770,7 +3770,7 @@
     "total_imports": 403291,
     "change_old": 10.8917,
     "change": 10.8917,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.8944,
     "code": "296"
@@ -3786,7 +3786,7 @@
     "total_imports": 403291,
     "change_old": 10.8917,
     "change": 10.8917,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.8944,
     "code": "296"
@@ -4090,7 +4090,7 @@
     "total_imports": 22142668,
     "change_old": 10.6449,
     "change": 10.6449,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0081,
     "code": "694"
@@ -4106,7 +4106,7 @@
     "total_imports": 22142668,
     "change_old": 10.6449,
     "change": 10.6449,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.653,
     "code": "694"
@@ -4122,7 +4122,7 @@
     "total_imports": 22142668,
     "change_old": 10.6449,
     "change": 10.6449,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.653,
     "code": "694"
@@ -4570,7 +4570,7 @@
     "total_imports": 3875954,
     "change_old": 10.2197,
     "change": 10.2197,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "262"
@@ -4586,7 +4586,7 @@
     "total_imports": 3875954,
     "change_old": 10.2197,
     "change": 10.2197,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.2197,
     "code": "262"
@@ -4602,7 +4602,7 @@
     "total_imports": 3875954,
     "change_old": 10.2197,
     "change": 10.2197,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.2197,
     "code": "262"
@@ -4714,7 +4714,7 @@
     "total_imports": 620733,
     "change_old": 10.1353,
     "change": 10.1353,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "624"
@@ -4730,7 +4730,7 @@
     "total_imports": 620733,
     "change_old": 10.1353,
     "change": 10.1353,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.1353,
     "code": "624"
@@ -4746,7 +4746,7 @@
     "total_imports": 620733,
     "change_old": 10.1353,
     "change": 10.1353,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.1353,
     "code": "624"
@@ -4762,7 +4762,7 @@
     "total_imports": 190054246,
     "change_old": 9.9488,
     "change": 9.9488,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.1486,
     "code": "834"
@@ -4778,7 +4778,7 @@
     "total_imports": 190054246,
     "change_old": 9.9488,
     "change": 9.9488,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.0973,
     "code": "834"
@@ -4794,7 +4794,7 @@
     "total_imports": 190054246,
     "change_old": 9.9488,
     "change": 9.9488,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.0973,
     "code": "834"
@@ -4810,7 +4810,7 @@
     "total_imports": 1537330,
     "change_old": 10.0245,
     "change": 10.0245,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0701,
     "code": "706"
@@ -4826,7 +4826,7 @@
     "total_imports": 1537330,
     "change_old": 10.0245,
     "change": 10.0245,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.0947,
     "code": "706"
@@ -4842,7 +4842,7 @@
     "total_imports": 1537330,
     "change_old": 10.0245,
     "change": 10.0245,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.0947,
     "code": "706"
@@ -5050,7 +5050,7 @@
     "total_imports": 13448452,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.027,
     "code": "729"
@@ -5066,7 +5066,7 @@
     "total_imports": 13448452,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.027,
     "code": "729"
@@ -5082,7 +5082,7 @@
     "total_imports": 13448452,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.027,
     "code": "729"
@@ -5146,7 +5146,7 @@
     "total_imports": 117593410,
     "change_old": 10.0014,
     "change": 10.0014,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.018,
     "code": "800"
@@ -5162,7 +5162,7 @@
     "total_imports": 117593410,
     "change_old": 10.0014,
     "change": 10.0014,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.0194,
     "code": "800"
@@ -5178,7 +5178,7 @@
     "total_imports": 117593410,
     "change_old": 10.0014,
     "change": 10.0014,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.0194,
     "code": "800"
@@ -5290,7 +5290,7 @@
     "total_imports": 6462420,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0083,
     "code": "108"
@@ -5306,7 +5306,7 @@
     "total_imports": 6462420,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.0083,
     "code": "108"
@@ -5322,7 +5322,7 @@
     "total_imports": 6462420,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10.0083,
     "code": "108"
@@ -5338,7 +5338,7 @@
     "total_imports": 231041840,
     "change_old": 49.9994,
     "change": 10.0003,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "426"
@@ -5354,7 +5354,7 @@
     "total_imports": 231041840,
     "change_old": 49.9994,
     "change": 10.0003,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10.0003,
     "code": "426"
@@ -5370,7 +5370,7 @@
     "total_imports": 231041840,
     "change_old": 49.9994,
     "change": 10.0003,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 49.9994,
     "code": "426"
@@ -5386,7 +5386,7 @@
     "total_imports": 3337625,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "174"
@@ -5402,7 +5402,7 @@
     "total_imports": 3337625,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 10,
     "code": "174"
@@ -5418,7 +5418,7 @@
     "total_imports": 3337625,
     "change_old": 10,
     "change": 10,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 10,
     "code": "174"
@@ -5434,7 +5434,7 @@
     "total_imports": 90245987,
     "change_old": 9.9839,
     "change": 9.9839,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0089,
     "code": "768"
@@ -5450,7 +5450,7 @@
     "total_imports": 90245987,
     "change_old": 9.9839,
     "change": 9.9839,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.9928,
     "code": "768"
@@ -5466,7 +5466,7 @@
     "total_imports": 90245987,
     "change_old": 9.9839,
     "change": 9.9839,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.9928,
     "code": "768"
@@ -5578,7 +5578,7 @@
     "total_imports": 13715667,
     "change_old": 9.9885,
     "change": 9.9885,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "204"
@@ -5594,7 +5594,7 @@
     "total_imports": 13715667,
     "change_old": 9.9885,
     "change": 9.9885,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.9885,
     "code": "204"
@@ -5610,7 +5610,7 @@
     "total_imports": 13715667,
     "change_old": 9.9885,
     "change": 9.9885,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.9885,
     "code": "204"
@@ -5770,7 +5770,7 @@
     "total_imports": 4731705,
     "change_old": 9.7776,
     "change": 9.7776,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "626"
@@ -5786,7 +5786,7 @@
     "total_imports": 4731705,
     "change_old": 9.7776,
     "change": 9.7776,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.7776,
     "code": "626"
@@ -5802,7 +5802,7 @@
     "total_imports": 4731705,
     "change_old": 9.7776,
     "change": 9.7776,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.7776,
     "code": "626"
@@ -6010,7 +6010,7 @@
     "total_imports": 211076215,
     "change_old": 10.9198,
     "change": 7.1381,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 2.4977,
     "code": "508"
@@ -6026,7 +6026,7 @@
     "total_imports": 211076215,
     "change_old": 10.9198,
     "change": 7.1381,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.6358,
     "code": "508"
@@ -6042,7 +6042,7 @@
     "total_imports": 211076215,
     "change_old": 10.9198,
     "change": 7.1381,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 13.4176,
     "code": "508"
@@ -6346,7 +6346,7 @@
     "total_imports": 1987938,
     "change_old": 9.3688,
     "change": 9.3688,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "140"
@@ -6362,7 +6362,7 @@
     "total_imports": 1987938,
     "change_old": 9.3688,
     "change": 9.3688,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.3688,
     "code": "140"
@@ -6378,7 +6378,7 @@
     "total_imports": 1987938,
     "change_old": 9.3688,
     "change": 9.3688,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.3688,
     "code": "140"
@@ -6442,7 +6442,7 @@
     "total_imports": 5135229,
     "change_old": 9.2518,
     "change": 9.2518,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0087,
     "code": "562"
@@ -6458,7 +6458,7 @@
     "total_imports": 5135229,
     "change_old": 9.2518,
     "change": 9.2518,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.2605,
     "code": "562"
@@ -6474,7 +6474,7 @@
     "total_imports": 5135229,
     "change_old": 9.2518,
     "change": 9.2518,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.2605,
     "code": "562"
@@ -6538,7 +6538,7 @@
     "total_imports": 1610757,
     "change_old": 9.1748,
     "change": 9.1748,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "270"
@@ -6554,7 +6554,7 @@
     "total_imports": 1610757,
     "change_old": 9.1748,
     "change": 9.1748,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.1748,
     "code": "270"
@@ -6570,7 +6570,7 @@
     "total_imports": 1610757,
     "change_old": 9.1748,
     "change": 9.1748,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.1748,
     "code": "270"
@@ -6586,7 +6586,7 @@
     "total_imports": 732258726,
     "change_old": 42.4609,
     "change": 9.0973,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0246,
     "code": "450"
@@ -6602,7 +6602,7 @@
     "total_imports": 732258726,
     "change_old": 42.4609,
     "change": 9.0973,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.1219,
     "code": "450"
@@ -6618,7 +6618,7 @@
     "total_imports": 732258726,
     "change_old": 42.4609,
     "change": 9.0973,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 42.4855,
     "code": "450"
@@ -6634,7 +6634,7 @@
     "total_imports": 38551446,
     "change_old": 9.0792,
     "change": 9.0792,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0412,
     "code": "646"
@@ -6650,7 +6650,7 @@
     "total_imports": 38551446,
     "change_old": 9.0792,
     "change": 9.0792,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 9.1204,
     "code": "646"
@@ -6666,7 +6666,7 @@
     "total_imports": 38551446,
     "change_old": 9.0792,
     "change": 9.0792,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 9.1204,
     "code": "646"
@@ -6730,7 +6730,7 @@
     "total_imports": 163218430,
     "change_old": 8.7946,
     "change": 8.7946,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0025,
     "code": "686"
@@ -6746,7 +6746,7 @@
     "total_imports": 163218430,
     "change_old": 8.7946,
     "change": 8.7946,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 8.7971,
     "code": "686"
@@ -6762,7 +6762,7 @@
     "total_imports": 163218430,
     "change_old": 8.7946,
     "change": 8.7946,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 8.7971,
     "code": "686"
@@ -6826,7 +6826,7 @@
     "total_imports": 156540418,
     "change_old": 14.5696,
     "change": 8.6124,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0292,
     "code": "894"
@@ -6842,7 +6842,7 @@
     "total_imports": 156540418,
     "change_old": 14.5696,
     "change": 8.6124,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 8.6416,
     "code": "894"
@@ -6858,7 +6858,7 @@
     "total_imports": 156540418,
     "change_old": 14.5696,
     "change": 8.6124,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 14.5989,
     "code": "894"
@@ -6970,7 +6970,7 @@
     "total_imports": 1109739,
     "change_old": 8.4612,
     "change": 8.4612,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0152,
     "code": "090"
@@ -6986,7 +6986,7 @@
     "total_imports": 1109739,
     "change_old": 8.4612,
     "change": 8.4612,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 8.4764,
     "code": "090"
@@ -7002,7 +7002,7 @@
     "total_imports": 1109739,
     "change_old": 8.4612,
     "change": 8.4612,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 8.4764,
     "code": "090"
@@ -7306,7 +7306,7 @@
     "total_imports": 7319964,
     "change_old": 7.7255,
     "change": 7.7255,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.1394,
     "code": "466"
@@ -7322,7 +7322,7 @@
     "total_imports": 7319964,
     "change_old": 7.7255,
     "change": 7.7255,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 7.8649,
     "code": "466"
@@ -7338,7 +7338,7 @@
     "total_imports": 7319964,
     "change_old": 7.7255,
     "change": 7.7255,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 7.8649,
     "code": "466"
@@ -7930,7 +7930,7 @@
     "total_imports": 12931601,
     "change_old": 5.2625,
     "change": 5.2625,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.048,
     "code": "324"
@@ -7946,7 +7946,7 @@
     "total_imports": 12931601,
     "change_old": 5.2625,
     "change": 5.2625,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 5.3105,
     "code": "324"
@@ -7962,7 +7962,7 @@
     "total_imports": 12931601,
     "change_old": 5.2625,
     "change": 5.2625,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 5.3105,
     "code": "324"
@@ -8602,7 +8602,7 @@
     "total_imports": 1205191072,
     "change_old": 3.8696,
     "change": 1.2756,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0003,
     "code": "024"
@@ -8618,7 +8618,7 @@
     "total_imports": 1205191072,
     "change_old": 3.8696,
     "change": 1.2756,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 1.2759,
     "code": "024"
@@ -8634,7 +8634,7 @@
     "total_imports": 1205191072,
     "change_old": 3.8696,
     "change": 1.2756,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 3.8699,
     "code": "024"
@@ -8794,7 +8794,7 @@
     "total_imports": 66685608,
     "change_old": 0.4802,
     "change": 0.4802,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0005,
     "code": "430"
@@ -8810,7 +8810,7 @@
     "total_imports": 66685608,
     "change_old": 0.4802,
     "change": 0.4802,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 0.4807,
     "code": "430"
@@ -8826,7 +8826,7 @@
     "total_imports": 66685608,
     "change_old": 0.4802,
     "change": 0.4802,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 0.4807,
     "code": "430"
@@ -8842,7 +8842,7 @@
     "total_imports": 277143129,
     "change_old": 0.4801,
     "change": 0.4368,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0.0001,
     "code": "180"
@@ -8858,7 +8858,7 @@
     "total_imports": 277143129,
     "change_old": 0.4801,
     "change": 0.4368,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 0.4369,
     "code": "180"
@@ -8874,7 +8874,7 @@
     "total_imports": 277143129,
     "change_old": 0.4801,
     "change": 0.4368,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 0.4802,
     "code": "180"
@@ -8890,7 +8890,7 @@
     "total_imports": 86322729,
     "change_old": 0.3759,
     "change": 0.2955,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 1,
     "value": 0,
     "code": "148"
@@ -8906,7 +8906,7 @@
     "total_imports": 86322729,
     "change_old": 0.3759,
     "change": 0.2955,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 2,
     "value": 0.2955,
     "code": "148"
@@ -8922,7 +8922,7 @@
     "total_imports": 86322729,
     "change_old": 0.3759,
     "change": 0.2955,
-    "dev_status": "Least Developed",
+    "dev_status": "Least developed",
     "tariff_structure": 3,
     "value": 0.3759,
     "code": "148"
