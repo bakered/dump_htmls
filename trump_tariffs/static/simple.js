@@ -474,10 +474,10 @@ document.addEventListener("DOMContentLoaded", function() {
               let bubbleColor = '#999'; // default fallback
               //if (devStatus === 'Developed') bubbleColor = '#c5dfef';
               //else if (devStatus === 'Developing') bubbleColor = '#004987';
-              //else if (devStatus === 'Least Developed') bubbleColor = '#fbaf17';
+              //else if (devStatus === 'Least developed') bubbleColor = '#fbaf17';
               if (devStatus === 'Developed') bubbleColor = 'rgba(197, 223, 239, 1)';
               else if (devStatus === 'Developing') bubbleColor = 'rgba(0, 73, 135, 1)';
-              else if (devStatus === 'Least Developed') bubbleColor = 'rgba(251, 175, 23, 1)';  
+              else if (devStatus === 'Least developed') bubbleColor = 'rgba(251, 175, 23, 1)';  
 
               return {
                 code,
@@ -630,11 +630,11 @@ document.addEventListener("DOMContentLoaded", function() {
                     value: "Developing"
                   },
                   {
-                    name: "Least Developed",
+                    name: "Least developed",
                     color: "#fbaf17",
                     from: 0,
                     to: 0,
-                    value: "Least Developed"
+                    value: "Least developed"
                   }
                 ]
               },
