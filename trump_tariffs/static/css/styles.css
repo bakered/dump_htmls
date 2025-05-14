@@ -2,7 +2,8 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 300; /* Inter Light */
     background-color: #f2f8fc;
 }
 
@@ -413,9 +414,11 @@ th {
   
   .slider-title {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
+    color: #3399ff; /* Light blue */
     white-space: nowrap;
-  }
+    margin-bottom: 10px;
+}
   
   .slider-stack {
     display: flex;
@@ -433,8 +436,12 @@ th {
   .slider-labels span {
     width: 150px; /* = 0.5 * slider width */
     text-align: center;
-    font-weight: bold;
+    font-weight: 300;
     font-size: 14px;
+  }
+
+  .slider-labels span strong {
+    font-weight: 600; /* Or 500–700 depending on how bold you want it */
   }
   
   #tariff_structureSlider {
@@ -449,7 +456,11 @@ th {
     }
   
     .slider-title {
-      margin-bottom: 6px;
+        font-weight: bold;
+        font-size: 20px;
+        color: #3399ff; /* Light blue */
+        white-space: nowrap;
+        margin-bottom: 10px;
     }
   
     .slider-labels {

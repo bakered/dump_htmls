@@ -476,8 +476,8 @@ document.addEventListener("DOMContentLoaded", function() {
               //else if (devStatus === 'Developing') bubbleColor = '#004987';
               //else if (devStatus === 'Least developed') bubbleColor = '#fbaf17';
               if (devStatus === 'Developed') bubbleColor = 'rgba(197, 223, 239, 1)';
-              else if (devStatus === 'Developing') bubbleColor = 'rgba(0, 73, 135, 1)';
-              else if (devStatus === 'Least developed') bubbleColor = 'rgba(251, 175, 23, 1)';  
+              else if (devStatus === 'Developing') bubbleColor = '#009edb' //'rgba(0, 73, 135, 1)';
+              else if (devStatus === 'Least developed') bubbleColor = '#FBAF17' //'rgba(251, 175, 23, 1)';  
 
               return {
                 code,
@@ -489,13 +489,13 @@ document.addEventListener("DOMContentLoaded", function() {
                 color: bubbleColor,
                 marker: {
                     fillOpacity: 1, 
-                    lineColor: '#222',
-                    lineWidth: 1,
+                    lineColor: '#0ced2a',
+                    lineWidth: 0,
                     fillColor: bubbleColor 
                   },
                 fillOpacity: 1, 
-                lineColor: '#222',
-                lineWidth: 1
+                lineColor: '#f00606',
+                lineWidth: 0
               };
             });
           }
@@ -624,7 +624,7 @@ document.addEventListener("DOMContentLoaded", function() {
                   },
                   {
                     name: "Developing",
-                    color: "#004987",
+                    color: '#009edb', //"#004987",
                     from: 0,
                     to: 0,
                     value: "Developing"

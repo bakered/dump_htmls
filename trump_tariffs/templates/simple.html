@@ -16,21 +16,26 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="../static/css/styles.css">
 
+    <!-- Inter font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;600&display=swap" rel="stylesheet">
+
     <script>
         var user_id = "data"; // Inject user ID 
     </script>
+
+
 </head>
 <body>
 
     <div class="right-content">
     <!-- Controls -->
     <div id="controls" class="slider-wrapper">
-        <div class="slider-title">Which tariffs?</div>
         <div class="slider-stack">
+            <div class="slider-title">Which tariffs?</div>
             <div class="slider-labels">
-                <span>Pre Jan 2025</span>
-                <span>During 90 day pause</span>
-                <span>After 90 day pause</span>
+                <span><strong>Pre</strong> <br>Jan 2025</span>
+                <span><strong>During</strong> <br>90 day pause</span>
+                <span><strong>After</strong> <br>90 day pause</span>
             </div>
             <input type="range" id="tariff_structureSlider" min="1" max="3" step="1">
         </div>
