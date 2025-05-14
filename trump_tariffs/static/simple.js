@@ -472,10 +472,10 @@ document.addEventListener("DOMContentLoaded", function() {
           
               // Assign color by development status
               let bubbleColor = '#999'; // default fallback
-              //if (devStatus === 'Developed') bubbleColor = '#c5dfef';
+              //if (devStatus === 'Developed') bubbleColor = '#c5dfef'; //"#7BB7E1"; // 
               //else if (devStatus === 'Developing') bubbleColor = '#004987';
               //else if (devStatus === 'Least developed') bubbleColor = '#fbaf17';
-              if (devStatus === 'Developed') bubbleColor = 'rgba(197, 223, 239, 1)';
+              if (devStatus === 'Developed') bubbleColor = '#c5dfef' //"#7BB7E1" // 'rgba(197, 223, 239, 1)';
               else if (devStatus === 'Developing') bubbleColor = '#009edb' //'rgba(0, 73, 135, 1)';
               else if (devStatus === 'Least developed') bubbleColor = '#FBAF17' //'rgba(251, 175, 23, 1)';  
 
@@ -488,12 +488,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 value: value,
                 color: bubbleColor,
                 marker: {
-                    fillOpacity: 1, 
+                    //fillOpacity: 1, 
                     lineColor: '#0ced2a',
                     lineWidth: 0,
                     fillColor: bubbleColor 
                   },
-                fillOpacity: 1, 
+                //fillOpacity: 1, 
                 lineColor: '#f00606',
                 lineWidth: 0
               };
@@ -617,14 +617,14 @@ document.addEventListener("DOMContentLoaded", function() {
                 dataClasses: [
                   {
                     name: "Developed",
-                    color: "#c5dfef",
+                    color: "#c5dfef", //"#7BB7E1", //
                     from: 0,
                     to: 0,
                     value: "Developed"
                   },
                   {
                     name: "Developing",
-                    color: '#009edb', //"#004987",
+                    color: '#009edb', //"#004987", 
                     from: 0,
                     to: 0,
                     value: "Developing"
@@ -733,7 +733,10 @@ document.addEventListener("DOMContentLoaded", function() {
                     animation: {
                         duration: 600,
                         easing: 'easeOutQuad' // Optional: 'easeOutBounce', 'easeInOutCubic', etc.
-                    },                  
+                    },
+                    marker: {
+                        fillOpacity: 0.8
+                      },                  
                 },
             ]
         });
