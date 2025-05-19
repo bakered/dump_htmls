@@ -475,7 +475,7 @@ document.addEventListener("DOMContentLoaded", function() {
               //if (devStatus === 'Developed') bubbleColor = '#c5dfef'; //"#7BB7E1"; // 
               //else if (devStatus === 'Developing') bubbleColor = '#004987';
               //else if (devStatus === 'Least developed') bubbleColor = '#fbaf17';
-              if (devStatus === 'Developed') bubbleColor = '#c5dfef' //"#7BB7E1" // 'rgba(197, 223, 239, 1)';
+              if (devStatus === 'Developed') bubbleColor =  "#004987"  //'#c5dfef' //"#7BB7E1" // 'rgba(197, 223, 239, 1)';
               else if (devStatus === 'Developing') bubbleColor = '#009edb' //'rgba(0, 73, 135, 1)';
               else if (devStatus === 'Least developed') bubbleColor = '#FBAF17' //'rgba(251, 175, 23, 1)';  
 
@@ -617,7 +617,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 dataClasses: [
                   {
                     name: "Developed",
-                    color: "#c5dfef", //"#7BB7E1", //
+                    color:  "#004987", // "#c5dfef", //"#7BB7E1", //
                     from: 0,
                     to: 0,
                     value: "Developed"
@@ -735,7 +735,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         easing: 'easeOutQuad' // Optional: 'easeOutBounce', 'easeInOutCubic', etc.
                     },
                     marker: {
-                        fillOpacity: 0.8
+                        fillOpacity: 0.7
                       },                  
                 },
             ]
