@@ -186,8 +186,8 @@ export function showPieChart(code, tariff_structure) {
     overlaySlot.appendChild(sliderWrapper);
   }
 
-  document.getElementById("pieOverlayTitle").innerText = `Breakdown for ${contribRows[0]?.Country || code}`;
-  info.innerText = `This shows the shift in tariffs for ${contribRows[0]?.Country || code}.`;
+  document.getElementById("pieOverlayTitle").innerText = `Breakdown for ${contribRows[0]?.exp_name || code}`;
+  info.innerText = `This shows the shift in tariffs for ${contribRows[0]?.exp_name || code}.`;
 }
 
 export function hidePieChart() {
