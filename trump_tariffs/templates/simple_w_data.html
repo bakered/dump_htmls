@@ -79,7 +79,7 @@
     <script>
         async function injectLLMData() {
         try {
-            const res = await fetch('/static/data.mapData.json'); // absolute path
+            const res = await fetch('../static/data/mapData.json'); // absolute path
             if (!res.ok) {
             console.error('Failed to load mapData.json:', res.status);
             return;
